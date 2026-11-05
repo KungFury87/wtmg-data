@@ -1,0 +1,28 @@
+name: Pull federal contracts
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch the largest contract actions from the last 14 days
+        run: |
+          FROM=$(date -u -d '14 days ago' +%F); TO=$(date -u +%F)
+          curl -fsS --retry 4 --retry-delay 20 -m 120 -X POST https://api.usaspending.gov/api/v2/search/spending_by_transaction/ \
+            -H 'Content-Type: application/json' \
+            -d "{\"filters\":{\"time_period\":[{\"start_date\":\"$FROM\",\"end_date\":\"$TO\"}],\"award_type_codes\":[\"A\",\"B\",\"C\",\"D\"]},\"fields\":[\"Award ID\",\"Recipient Name\",\"Transaction Amount\",\"Awarding Agency\",\"Transaction Description\",\"Action Date\",\"generated_internal_id\"],\"sort\":\"Transaction Amount\",\"order\":\"desc\",\"limit\":30,\"page\":1}" \
+            -o contracts.tmp
+          jq -e '.results | length > 0' contracts.tmp > /dev/null
+          jq '{pulled:(now|todate),results}' contracts.tmp > contracts.json; rm contracts.tmp
+      - name: Save
+        run: |
+          git config user.name wtmg-data-bot
+          git config user.email actions@users.noreply.github.com
+          git add contracts.json
+          git commit -m "Update contracts" || exit 0
+          git push
