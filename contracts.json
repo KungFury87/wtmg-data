@@ -1,0 +1,305 @@
+{
+  "pulled": "2026-11-05T13:10:21Z",
+  "results": [
+    {
+      "Award ID": "89233218CNA000001",
+      "Recipient Name": "TRIAD NATIONAL SECURITY, LLC",
+      "Transaction Amount": 872479309.33,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "LOS ALAMOS NATIONAL LABORATORY MANAGEMENT AND OPERATING CONTRACT",
+      "Action Date": "2026-10-28",
+      "generated_internal_id": "CONT_AWD_89233218CNA000001_8900_-NONE-_-NONE-",
+      "internal_id": 292027610
+    },
+    {
+      "Award ID": "DENA0003525",
+      "Recipient Name": "NATIONAL TECHNOLOGY & ENGINEERING SOLUTIONS OF SANDIA, LLC",
+      "Transaction Amount": 629144563.09,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "MANAGEMENT AND OPERATION OF SANDIA NATIONAL LABORATORIES.",
+      "Action Date": "2026-10-30",
+      "generated_internal_id": "CONT_AWD_DENA0003525_8900_-NONE-_-NONE-",
+      "internal_id": 295527116
+    },
+    {
+      "Award ID": "DEAC5207NA27344",
+      "Recipient Name": "LAWRENCE LIVERMORE NATIONAL SECURITY, LLC",
+      "Transaction Amount": 550395935.77,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "MANAGEMENT AND OPERATION OF THE LAWRENCE LIVERMORE NATIONAL LABORATORY",
+      "Action Date": "2026-10-29",
+      "generated_internal_id": "CONT_AWD_DEAC5207NA27344_8900_-NONE-_-NONE-",
+      "internal_id": 295477233
+    },
+    {
+      "Award ID": "DENA0001942",
+      "Recipient Name": "CONSOLIDATED NUCLEAR SECURITY, LLC",
+      "Transaction Amount": 489421124.59,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "MANAGEMENT AND OPERATING CONTRACT FOR Y-12 NATIONAL SECURITY COMPLEX, PANTEX PLANT, WITH AN OPTION FOR SAVANNAH RIVER TRITIUM OPERATIONS",
+      "Action Date": "2026-10-30",
+      "generated_internal_id": "CONT_AWD_DENA0001942_8900_-NONE-_-NONE-",
+      "internal_id": 295526820
+    },
+    {
+      "Award ID": "DEAC0908SR22470",
+      "Recipient Name": "SAVANNAH RIVER NUCLEAR SOLUTIONS LLC",
+      "Transaction Amount": 378824045.0,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "SAVANNAH RIVER SITE MANAGEMENT & OPERATING (M&O) CONTRACT",
+      "Action Date": "2026-10-29",
+      "generated_internal_id": "CONT_AWD_DEAC0908SR22470_8900_-NONE-_-NONE-",
+      "internal_id": 295476437
+    },
+    {
+      "Award ID": "DENA0002839",
+      "Recipient Name": "HONEYWELL FEDERAL MANUFACTURING & TECHNOLOGIES, LLC",
+      "Transaction Amount": 323361008.89,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "HONEYWELL - MANAGEMENT AND OPERATION OF THE NATIONAL SECURITY CAMPUS - CONTRACT NO. DE-NA0002839",
+      "Action Date": "2026-10-30",
+      "generated_internal_id": "CONT_AWD_DENA0002839_8900_-NONE-_-NONE-",
+      "internal_id": 295526997
+    },
+    {
+      "Award ID": "DEAC0500OR22725",
+      "Recipient Name": "UT-BATTELLE LLC",
+      "Transaction Amount": 291585407.04,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "MANAGEMENT AND OPERATION OF THE OAK RIDGE NATIONAL LABORATORY CONTRACT",
+      "Action Date": "2026-10-30",
+      "generated_internal_id": "CONT_AWD_DEAC0500OR22725_8900_-NONE-_-NONE-",
+      "internal_id": 295476106
+    },
+    {
+      "Award ID": "89233224CNA000004",
+      "Recipient Name": "PANTEXAS DETERRENCE, LLC",
+      "Transaction Amount": 291332739.25,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "MANAGEMENT AND OPERATION OF THE PANTEX PLANT",
+      "Action Date": "2026-10-29",
+      "generated_internal_id": "CONT_AWD_89233224CNA000004_8900_-NONE-_-NONE-",
+      "internal_id": 292027616
+    },
+    {
+      "Award ID": "70CDCR27FC0000001",
+      "Recipient Name": "CSI AVIATION, INC",
+      "Transaction Amount": 277971276.0,
+      "Awarding Agency": "Department of Homeland Security",
+      "Transaction Description": "THIS CALL ORDER OBTAINS DEDICATED AND ON-DEMAND CHARTERED FLIGHT SERVICES FOR ENFORCEMENT AND REMOVAL OPERATIONS UNDER THE ICE AIR PROGRAM. ICE AIR FACILITATES THE SAFE, SECURE, AND COST-EFFECTIVE TRANSPORTATION AND DEPORTATION OF ILLEGAL ALIENS.",
+      "Action Date": "2026-10-31",
+      "generated_internal_id": "CONT_AWD_70CDCR27FC0000001_7012_70CDCR24A00000001_7012",
+      "internal_id": 363780565
+    },
+    {
+      "Award ID": "36C10G27N0011",
+      "Recipient Name": "SIGNATURE CHOICE III, LLC",
+      "Transaction Amount": 226106338.16,
+      "Awarding Agency": "Department of Veterans Affairs",
+      "Transaction Description": "VA CLAIMS AND CUSTOMER SERVICES",
+      "Action Date": "2026-10-28",
+      "generated_internal_id": "CONT_AWD_36C10G27N0011_3600_36C10G26D0030_3600",
+      "internal_id": 363758552
+    },
+    {
+      "Award ID": "DENA0003624",
+      "Recipient Name": "MISSION SUPPORT & TEST SERVICES LLC",
+      "Transaction Amount": 224905675.42,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "MANAGEMENT AND OPERATION OF MISSION SUPPORT AND TEST SERVICES LLC'S FOLLOW-ON CONTRACT, DE-NA0003624 FOR THE MANAGEMENT AND OPERATION OF THE NEVADA NATIONAL SECURITY SITE (NNSS)",
+      "Action Date": "2026-10-28",
+      "generated_internal_id": "CONT_AWD_DENA0003624_8900_-NONE-_-NONE-",
+      "internal_id": 295527128
+    },
+    {
+      "Award ID": "89243024CSC000002",
+      "Recipient Name": "FERMI FORWARD DISCOVERY GROUP, LLC",
+      "Transaction Amount": 172969325.0,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "MANAGEMENT AND OPERATION CONTRACT FOR FERMI NATIONAL ACCELERATOR LABORATORY THE PURPOSE OF THIS MODIFICATION IS TO EXECUTE A OCTOBER 2026'S FUNDING MODIFICATION. ALL OTHER TERMS AND CONDITIONS REMAIN THE SAME.",
+      "Action Date": "2026-10-27",
+      "generated_internal_id": "CONT_AWD_89243024CSC000002_8900_-NONE-_-NONE-",
+      "internal_id": 292027803
+    },
+    {
+      "Award ID": "DEAC0205CH11231",
+      "Recipient Name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
+      "Transaction Amount": 161437776.16,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "THIS IS A PERFORMANCE-BASED CONTRACT FOR MANAGEMENT AND OPERATION OF LBNL. THE PURPOSE OF THIS MODIFICATION IS TO OBLIGATE DOE APPROPRIATED FUNDS IN THE AMOUNT OF $161,437,776.16  (OPERATING $110,837,776.16 AND CONSTRUCTION $50,600,000).",
+      "Action Date": "2026-10-28",
+      "generated_internal_id": "CONT_AWD_DEAC0205CH11231_8900_-NONE-_-NONE-",
+      "internal_id": 295475790
+    },
+    {
+      "Award ID": "DESC0012704",
+      "Recipient Name": "BROOKHAVEN SCIENCE ASSOCIATES LLC",
+      "Transaction Amount": 153862598.43,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "PERFORMANCE-BASED CONTRACT FOR THE MANAGEMENT AND OPERATION OF BROOKHAVEN NATIONAL LABORATORY.",
+      "Action Date": "2026-10-27",
+      "generated_internal_id": "CONT_AWD_DESC0012704_8900_-NONE-_-NONE-",
+      "internal_id": 295531681
+    },
+    {
+      "Award ID": "36C10B26F0033",
+      "Recipient Name": "ACCENTURE FEDERAL SERVICES LLC",
+      "Transaction Amount": 150807169.55,
+      "Awarding Agency": "Department of Veterans Affairs",
+      "Transaction Description": "VA ELECTRONIC HEALTH RECORD MODERNIZATION SYSTEM INTEGRATION SUPPORT SERVICES P00004 OY 1 INCREMENTAL FUNDING AND CEILING REALLOCATION. EO 14398.",
+      "Action Date": "2026-10-22",
+      "generated_internal_id": "CONT_AWD_36C10B26F0033_3600_47QTCK18D0036_4732",
+      "internal_id": 351912019
+    },
+    {
+      "Award ID": "DEAC0276SF00515",
+      "Recipient Name": "THE LELAND STANFORD JUNIOR UNIVERSITY",
+      "Transaction Amount": 129676581.0,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "MANAGEMENT AND OPERATION AT SLAC NATIONAL ACCELERATOR LABORATORY. MANAGEMENT AND OPERATION AT SLAC NATIONAL ACCELERATOR LABORATORY FUNDING MODIFICATION BASED ON FINANCIAL PLAN #259.  TAS:: 89 0222",
+      "Action Date": "2026-10-27",
+      "generated_internal_id": "CONT_AWD_DEAC0276SF00515_8900_-NONE-_-NONE-",
+      "internal_id": 295475824
+    },
+    {
+      "Award ID": "70ZS0327FKODI0002",
+      "Recipient Name": "GILBANE FEDERAL",
+      "Transaction Amount": 113748477.0,
+      "Awarding Agency": "Department of Homeland Security",
+      "Transaction Description": "DESIGN BUILD RECAPITALIZE BASE KODIAK WATERLINES",
+      "Action Date": "2026-10-29",
+      "generated_internal_id": "CONT_AWD_70ZS0327FKODI0002_7008_70Z04723DPCNI0007_7008",
+      "internal_id": 363774408
+    },
+    {
+      "Award ID": "89303523FEM400032",
+      "Recipient Name": "UNITED CLEANUP OAK RIDGE LLC",
+      "Transaction Amount": 113181680.81,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "THE PURPOSE OF THIS MODIFICATION IS TO ADD INCREMENTAL FUNDING IN THE AMOUNT OF $113,181,680.81 THEREBY INCREASING TOTAL OBLIGATIONS FROM $2,544,767,269.97 TO $2,657,948,950.78.",
+      "Action Date": "2026-10-30",
+      "generated_internal_id": "CONT_AWD_89303523FEM400032_8900_89303322DEM000067_8900",
+      "internal_id": 292037083
+    },
+    {
+      "Award ID": "DEAC0576RL01830",
+      "Recipient Name": "BATTELLE MEMORIAL INSTITUTE",
+      "Transaction Amount": 110988457.68,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "BATTELLE MEMORIAL INSTITUTE/PACIFIC NORTHWEST LABORATORY MANAGEMENT AND OPERATING CONTRACT: THIS UNILATERAL MOD OBLIGATES NON-APPROPRIATED AND DEPARTMENT OF ENERGY FUNDING (TAS 89 0309), (TAS 89 0222), AND (TAS 89 0251).",
+      "Action Date": "2026-10-29",
+      "generated_internal_id": "CONT_AWD_DEAC0576RL01830_8900_-NONE-_-NONE-",
+      "internal_id": 295476174
+    },
+    {
+      "Award ID": "80MSFC20C0052",
+      "Recipient Name": "THE BOEING COMPANY",
+      "Transaction Amount": 91000000.0,
+      "Awarding Agency": "National Aeronautics and Space Administration",
+      "Transaction Description": "SPACE LAUNCH SYSTEM (SLS) STAGES PRODUCTION AND EVOLUTION CONTRACT (SPEC), FUNDING, UCA EXTENSION",
+      "Action Date": "2026-10-28",
+      "generated_internal_id": "CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
+      "internal_id": 291816095
+    },
+    {
+      "Award ID": "DEAC0705ID14517",
+      "Recipient Name": "BATTELLE ENERGY ALLIANCE, LLC",
+      "Transaction Amount": 90496361.86,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "THE PURPOSE OF THIS MODIFICATION IS TO OBLIGATE FUNDING FOR THE MAINTENANCE AND OPERATIONS OF THE IDAHO NATIONAL LABORATORY. ALL OTHER TERMS AND CONDITIONS REMAIN IN EFFECT AND UNCHANGED.",
+      "Action Date": "2026-10-30",
+      "generated_internal_id": "CONT_AWD_DEAC0705ID14517_8900_-NONE-_-NONE-",
+      "internal_id": 295476322
+    },
+    {
+      "Award ID": "36C10X27K0072",
+      "Recipient Name": "MEDLINE INDUSTRIES, LP",
+      "Transaction Amount": 88992131.43,
+      "Awarding Agency": "Department of Veterans Affairs",
+      "Transaction Description": "EXPRESS REPORT: MEDICAL SURGICAL PRIME VENDOR EXPENDITURES FOR THE MONTH OF SEP 2026",
+      "Action Date": "2026-10-28",
+      "generated_internal_id": "CONT_AWD_36C10X27K0072_3600_36C10X23D0032_3600",
+      "internal_id": 363758557
+    },
+    {
+      "Award ID": "89304223FEM400000",
+      "Recipient Name": "IDAHO ENVIRONMENTAL COALITION LLC",
+      "Transaction Amount": 83219200.0,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "IDAHO CLEANUP PROJECT (ICP) END STATE CONTRACT THE PURPOSE OF THIS MODIFICATION IS TO OBLIGATE FUNDING TO TASK ORDER 3.2, INTEGRATION AND MISSION CONTINUITY; AND TASK ORDER 7.2, INTEGRATED WASTE TREATMENT UNIT OPERATIONS.",
+      "Action Date": "2026-10-29",
+      "generated_internal_id": "CONT_AWD_89304223FEM400000_8900_89303321DEM000061_8900",
+      "internal_id": 292037929
+    },
+    {
+      "Award ID": "36C77627C0021",
+      "Recipient Name": "RICHARD GROUP LLC",
+      "Transaction Amount": 64910819.0,
+      "Awarding Agency": "Department of Veterans Affairs",
+      "Transaction Description": "EHRM PITTSBURG UD",
+      "Action Date": "2026-10-30",
+      "generated_internal_id": "CONT_AWD_36C77627C0021_3600_-NONE-_-NONE-",
+      "internal_id": 363776551
+    },
+    {
+      "Award ID": "89303125FEM400428",
+      "Recipient Name": "SOUTHERN OHIO CLEANUP COMPANY LLC",
+      "Transaction Amount": 63329691.0,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "PORTSMOUTH (PORTS) DECONTAMINATION & DECOMMISSIONING (D&D) - ADD INCREMENTAL FUNDING TO CONTRACT LINE ITEM NUMBERS 1, 2, 3, AND 4.",
+      "Action Date": "2026-10-27",
+      "generated_internal_id": "CONT_AWD_89303125FEM400428_8900_89303323DEM000089_8900",
+      "internal_id": 292036396
+    },
+    {
+      "Award ID": "89243126CSC000213",
+      "Recipient Name": "SURATECH LLC",
+      "Transaction Amount": 56594802.0,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "MANAGEMENT AND OPERATING CONTRACTOR FOR THE THOMAS JEFFERSON NATIONAL ACCELERATOR FACILITY (TJNAF) (APPROPRIATED FUNDS: $56,594,802; NON-APPROPRIATED FUNDS: $7,000)",
+      "Action Date": "2026-10-27",
+      "generated_internal_id": "CONT_AWD_89243126CSC000213_8900_-NONE-_-NONE-",
+      "internal_id": 356740315
+    },
+    {
+      "Award ID": "NNM16AA02C",
+      "Recipient Name": "AEROJET ROCKETDYNE OF DE, INC",
+      "Transaction Amount": 53422103.0,
+      "Awarding Agency": "National Aeronautics and Space Administration",
+      "Transaction Description": "RS-25 PRODUCTION RESTART TO BE UNDERTAKEN BY THE CONTRACTOR IN SUPPORT OF PROVIDING TWENTY-FOUR RS-25 ENGINES MODIFIED AS NECESSARY FOR THE TECHNICAL REQUIREMENT UNDER THE SPACE LAUNCH SYSTEM",
+      "Action Date": "2026-10-29",
+      "generated_internal_id": "CONT_AWD_NNM16AA02C_8000_-NONE-_-NONE-",
+      "internal_id": 311432673
+    },
+    {
+      "Award ID": "70CDCR26C00000003",
+      "Recipient Name": "ARDENT GROUP, LLC",
+      "Transaction Amount": 44769832.26,
+      "Awarding Agency": "Department of Homeland Security",
+      "Transaction Description": "THE PURPOSE OF THIS CONTRACT IS TO PROVIDE ICE HEALTH SERVICE CORPS WITH A PHARMACY BENEFIT MANAGER TO MANAGE FORMULARY, CLAIMS PROCESSING, PHARMACY NETWORK ADMINISTRATION, AND BENEFIT PLAN DESIGN. THIS MODIFICATION EXERCISES OPTION PERIOD 1.",
+      "Action Date": "2026-10-22",
+      "generated_internal_id": "CONT_AWD_70CDCR26C00000003_7012_-NONE-_-NONE-",
+      "internal_id": 351956126
+    },
+    {
+      "Award ID": "36C10B24F0018",
+      "Recipient Name": "DELOITTE CONSULTING LLP",
+      "Transaction Amount": 43859273.0,
+      "Awarding Agency": "Department of Veterans Affairs",
+      "Transaction Description": "MODIFICATION OPTION YEAR 3 AND OPTIONAL TASKS. THE ORDER SUPPORTS FINANCIAL MANAGEMENT BUSINESS TRANSFORMATION (FMBT) PROGRAM TO MODERNIZE THE DEPARTMENT OF VETERANS AFFAIRS FINANCIAL AND ACQUISITION MANAGEMENT SYSTEMS.",
+      "Action Date": "2026-10-30",
+      "generated_internal_id": "CONT_AWD_36C10B24F0018_3600_47QRAA18D001P_4732",
+      "internal_id": 279970299
+    },
+    {
+      "Award ID": "75FCMC19C0002",
+      "Recipient Name": "WISCONSIN PHYSICIANS SERVICE INSURANCE CORP.",
+      "Transaction Amount": 41836062.0,
+      "Awarding Agency": "Department of Health and Human Services",
+      "Transaction Description": "J8 A/B MAC",
+      "Action Date": "2026-10-30",
+      "generated_internal_id": "CONT_AWD_75FCMC19C0002_7530_-NONE-_-NONE-",
+      "internal_id": 291527776
+    }
+  ]
+}
