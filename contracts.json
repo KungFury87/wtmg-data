@@ -1,5 +1,5 @@
 {
-  "pulled": "2026-11-05T13:10:21Z",
+  "pulled": "2026-11-06T11:02:54Z",
   "results": [
     {
       "Award ID": "89233218CNA000001",
@@ -132,6 +132,16 @@
       "internal_id": 295475790
     },
     {
+      "Award ID": "36C10X27N0007",
+      "Recipient Name": "QTC MEDICAL SERVICES INC",
+      "Transaction Amount": 158762599.55,
+      "Awarding Agency": "Department of Veterans Affairs",
+      "Transaction Description": "ADD FUNDS TO TASK ORDER THAT WAS SUBJECT TO THE AVAILABILITY OF FY27 FUNDS",
+      "Action Date": "2026-11-03",
+      "generated_internal_id": "CONT_AWD_36C10X27N0007_3600_36C10X22D0007_3600",
+      "internal_id": 363129409
+    },
+    {
       "Award ID": "DESC0012704",
       "Recipient Name": "BROOKHAVEN SCIENCE ASSOCIATES LLC",
       "Transaction Amount": 153862598.43,
@@ -140,16 +150,6 @@
       "Action Date": "2026-10-27",
       "generated_internal_id": "CONT_AWD_DESC0012704_8900_-NONE-_-NONE-",
       "internal_id": 295531681
-    },
-    {
-      "Award ID": "36C10B26F0033",
-      "Recipient Name": "ACCENTURE FEDERAL SERVICES LLC",
-      "Transaction Amount": 150807169.55,
-      "Awarding Agency": "Department of Veterans Affairs",
-      "Transaction Description": "VA ELECTRONIC HEALTH RECORD MODERNIZATION SYSTEM INTEGRATION SUPPORT SERVICES P00004 OY 1 INCREMENTAL FUNDING AND CEILING REALLOCATION. EO 14398.",
-      "Action Date": "2026-10-22",
-      "generated_internal_id": "CONT_AWD_36C10B26F0033_3600_47QTCK18D0036_4732",
-      "internal_id": 351912019
     },
     {
       "Award ID": "DEAC0276SF00515",
@@ -222,6 +222,26 @@
       "internal_id": 363758557
     },
     {
+      "Award ID": "36C10X27N0009",
+      "Recipient Name": "QTC MEDICAL SERVICES INC",
+      "Transaction Amount": 87556157.11,
+      "Awarding Agency": "Department of Veterans Affairs",
+      "Transaction Description": "ADD FUNDS TO TASK ORDER THAT WAS SUBJECT TO THE AVAILABILITY OF FY27 FUNDS",
+      "Action Date": "2026-11-03",
+      "generated_internal_id": "CONT_AWD_36C10X27N0009_3600_36C10X22D0009_3600",
+      "internal_id": 363129411
+    },
+    {
+      "Award ID": "36C10X27N0006",
+      "Recipient Name": "OPTUMSERVE HEALTH SERVICES, INC.",
+      "Transaction Amount": 83406416.48,
+      "Awarding Agency": "Department of Veterans Affairs",
+      "Transaction Description": "ADD FUNDS TO TASK ORDER THAT WAS SUBJECT TO THE AVAILABILITY OF FY27 FUNDS",
+      "Action Date": "2026-11-03",
+      "generated_internal_id": "CONT_AWD_36C10X27N0006_3600_36C10X22D0006_3600",
+      "internal_id": 363129408
+    },
+    {
       "Award ID": "89304223FEM400000",
       "Recipient Name": "IDAHO ENVIRONMENTAL COALITION LLC",
       "Transaction Amount": 83219200.0,
@@ -230,6 +250,16 @@
       "Action Date": "2026-10-29",
       "generated_internal_id": "CONT_AWD_89304223FEM400000_8900_89303321DEM000061_8900",
       "internal_id": 292037929
+    },
+    {
+      "Award ID": "36C10X27N0008",
+      "Recipient Name": "VETERANS EVALUATION SERVICES, INC",
+      "Transaction Amount": 70243668.35,
+      "Awarding Agency": "Department of Veterans Affairs",
+      "Transaction Description": "ADD FUNDS TO TASK ORDER THAT WAS SUBJECT TO THE AVAILABILITY OF FY27 FUNDS",
+      "Action Date": "2026-11-03",
+      "generated_internal_id": "CONT_AWD_36C10X27N0008_3600_36C10X22D0008_3600",
+      "internal_id": 363129410
     },
     {
       "Award ID": "36C77627C0021",
@@ -252,6 +282,16 @@
       "internal_id": 292036396
     },
     {
+      "Award ID": "36C10A20F0309",
+      "Recipient Name": "AT&T ENTERPRISES, LLC",
+      "Transaction Amount": 61357795.0,
+      "Awarding Agency": "Department of Veterans Affairs",
+      "Transaction Description": "EO 14398   ENTERPRISE DATA NETWORK SERVICES CARRIER B",
+      "Action Date": "2026-11-03",
+      "generated_internal_id": "CONT_AWD_36C10A20F0309_3600_GS00Q17NSD3000_4732",
+      "internal_id": 279966202
+    },
+    {
       "Award ID": "89243126CSC000213",
       "Recipient Name": "SURATECH LLC",
       "Transaction Amount": 56594802.0,
@@ -260,46 +300,6 @@
       "Action Date": "2026-10-27",
       "generated_internal_id": "CONT_AWD_89243126CSC000213_8900_-NONE-_-NONE-",
       "internal_id": 356740315
-    },
-    {
-      "Award ID": "NNM16AA02C",
-      "Recipient Name": "AEROJET ROCKETDYNE OF DE, INC",
-      "Transaction Amount": 53422103.0,
-      "Awarding Agency": "National Aeronautics and Space Administration",
-      "Transaction Description": "RS-25 PRODUCTION RESTART TO BE UNDERTAKEN BY THE CONTRACTOR IN SUPPORT OF PROVIDING TWENTY-FOUR RS-25 ENGINES MODIFIED AS NECESSARY FOR THE TECHNICAL REQUIREMENT UNDER THE SPACE LAUNCH SYSTEM",
-      "Action Date": "2026-10-29",
-      "generated_internal_id": "CONT_AWD_NNM16AA02C_8000_-NONE-_-NONE-",
-      "internal_id": 311432673
-    },
-    {
-      "Award ID": "70CDCR26C00000003",
-      "Recipient Name": "ARDENT GROUP, LLC",
-      "Transaction Amount": 44769832.26,
-      "Awarding Agency": "Department of Homeland Security",
-      "Transaction Description": "THE PURPOSE OF THIS CONTRACT IS TO PROVIDE ICE HEALTH SERVICE CORPS WITH A PHARMACY BENEFIT MANAGER TO MANAGE FORMULARY, CLAIMS PROCESSING, PHARMACY NETWORK ADMINISTRATION, AND BENEFIT PLAN DESIGN. THIS MODIFICATION EXERCISES OPTION PERIOD 1.",
-      "Action Date": "2026-10-22",
-      "generated_internal_id": "CONT_AWD_70CDCR26C00000003_7012_-NONE-_-NONE-",
-      "internal_id": 351956126
-    },
-    {
-      "Award ID": "36C10B24F0018",
-      "Recipient Name": "DELOITTE CONSULTING LLP",
-      "Transaction Amount": 43859273.0,
-      "Awarding Agency": "Department of Veterans Affairs",
-      "Transaction Description": "MODIFICATION OPTION YEAR 3 AND OPTIONAL TASKS. THE ORDER SUPPORTS FINANCIAL MANAGEMENT BUSINESS TRANSFORMATION (FMBT) PROGRAM TO MODERNIZE THE DEPARTMENT OF VETERANS AFFAIRS FINANCIAL AND ACQUISITION MANAGEMENT SYSTEMS.",
-      "Action Date": "2026-10-30",
-      "generated_internal_id": "CONT_AWD_36C10B24F0018_3600_47QRAA18D001P_4732",
-      "internal_id": 279970299
-    },
-    {
-      "Award ID": "75FCMC19C0002",
-      "Recipient Name": "WISCONSIN PHYSICIANS SERVICE INSURANCE CORP.",
-      "Transaction Amount": 41836062.0,
-      "Awarding Agency": "Department of Health and Human Services",
-      "Transaction Description": "J8 A/B MAC",
-      "Action Date": "2026-10-30",
-      "generated_internal_id": "CONT_AWD_75FCMC19C0002_7530_-NONE-_-NONE-",
-      "internal_id": 291527776
     }
   ]
 }
