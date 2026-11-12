@@ -1,16 +1,6 @@
 {
-  "pulled": "2026-11-11T11:08:26Z",
+  "pulled": "2026-11-12T11:26:20Z",
   "results": [
-    {
-      "Award ID": "89233218CNA000001",
-      "Recipient Name": "TRIAD NATIONAL SECURITY, LLC",
-      "Transaction Amount": 872479309.33,
-      "Awarding Agency": "Department of Energy",
-      "Transaction Description": "LOS ALAMOS NATIONAL LABORATORY MANAGEMENT AND OPERATING CONTRACT",
-      "Action Date": "2026-10-28",
-      "generated_internal_id": "CONT_AWD_89233218CNA000001_8900_-NONE-_-NONE-",
-      "internal_id": 292027610
-    },
     {
       "Award ID": "DENA0003525",
       "Recipient Name": "NATIONAL TECHNOLOGY & ENGINEERING SOLUTIONS OF SANDIA, LLC",
@@ -92,36 +82,6 @@
       "internal_id": 363780565
     },
     {
-      "Award ID": "36C10G27N0011",
-      "Recipient Name": "SIGNATURE CHOICE III, LLC",
-      "Transaction Amount": 226106338.16,
-      "Awarding Agency": "Department of Veterans Affairs",
-      "Transaction Description": "VA CLAIMS AND CUSTOMER SERVICES",
-      "Action Date": "2026-10-28",
-      "generated_internal_id": "CONT_AWD_36C10G27N0011_3600_36C10G26D0030_3600",
-      "internal_id": 363758552
-    },
-    {
-      "Award ID": "DENA0003624",
-      "Recipient Name": "MISSION SUPPORT & TEST SERVICES LLC",
-      "Transaction Amount": 224905675.42,
-      "Awarding Agency": "Department of Energy",
-      "Transaction Description": "MANAGEMENT AND OPERATION OF MISSION SUPPORT AND TEST SERVICES LLC'S FOLLOW-ON CONTRACT, DE-NA0003624 FOR THE MANAGEMENT AND OPERATION OF THE NEVADA NATIONAL SECURITY SITE (NNSS)",
-      "Action Date": "2026-10-28",
-      "generated_internal_id": "CONT_AWD_DENA0003624_8900_-NONE-_-NONE-",
-      "internal_id": 295527128
-    },
-    {
-      "Award ID": "DEAC0205CH11231",
-      "Recipient Name": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA",
-      "Transaction Amount": 161437776.16,
-      "Awarding Agency": "Department of Energy",
-      "Transaction Description": "THIS IS A PERFORMANCE-BASED CONTRACT FOR MANAGEMENT AND OPERATION OF LBNL. THE PURPOSE OF THIS MODIFICATION IS TO OBLIGATE DOE APPROPRIATED FUNDS IN THE AMOUNT OF $161,437,776.16  (OPERATING $110,837,776.16 AND CONSTRUCTION $50,600,000).",
-      "Action Date": "2026-10-28",
-      "generated_internal_id": "CONT_AWD_DEAC0205CH11231_8900_-NONE-_-NONE-",
-      "internal_id": 295475790
-    },
-    {
       "Award ID": "36C10X27N0007",
       "Recipient Name": "QTC MEDICAL SERVICES INC",
       "Transaction Amount": 158762599.55,
@@ -162,16 +122,6 @@
       "internal_id": 295476174
     },
     {
-      "Award ID": "80MSFC20C0052",
-      "Recipient Name": "THE BOEING COMPANY",
-      "Transaction Amount": 91000000.0,
-      "Awarding Agency": "National Aeronautics and Space Administration",
-      "Transaction Description": "SPACE LAUNCH SYSTEM (SLS) STAGES PRODUCTION AND EVOLUTION CONTRACT (SPEC), FUNDING, UCA EXTENSION",
-      "Action Date": "2026-10-28",
-      "generated_internal_id": "CONT_AWD_80MSFC20C0052_8000_-NONE-_-NONE-",
-      "internal_id": 291816095
-    },
-    {
       "Award ID": "DEAC0705ID14517",
       "Recipient Name": "BATTELLE ENERGY ALLIANCE, LLC",
       "Transaction Amount": 90496361.86,
@@ -180,16 +130,6 @@
       "Action Date": "2026-10-30",
       "generated_internal_id": "CONT_AWD_DEAC0705ID14517_8900_-NONE-_-NONE-",
       "internal_id": 295476322
-    },
-    {
-      "Award ID": "36C10X27K0072",
-      "Recipient Name": "MEDLINE INDUSTRIES, LP",
-      "Transaction Amount": 88992131.43,
-      "Awarding Agency": "Department of Veterans Affairs",
-      "Transaction Description": "EXPRESS REPORT: MEDICAL SURGICAL PRIME VENDOR EXPENDITURES FOR THE MONTH OF SEP 2026",
-      "Action Date": "2026-10-28",
-      "generated_internal_id": "CONT_AWD_36C10X27K0072_3600_36C10X23D0032_3600",
-      "internal_id": 363758557
     },
     {
       "Award ID": "36C10X27N0009",
@@ -232,6 +172,16 @@
       "internal_id": 363129410
     },
     {
+      "Award ID": "70CDCR26FR0000112",
+      "Recipient Name": "AKIMA INFRASTRUCTURE PROTECTION LLC",
+      "Transaction Amount": 69645751.0,
+      "Awarding Agency": "Department of Homeland Security",
+      "Transaction Description": "THE PURPOSE OF THIS MODIFICATION IS TO OBLIGATE FUNDING FOR DETENTION SERVICES AT THE KROME PROCESSING CENTER.",
+      "Action Date": "2026-11-09",
+      "generated_internal_id": "CONT_AWD_70CDCR26FR0000112_7012_70CDCR24D00000009_7012",
+      "internal_id": 361351589
+    },
+    {
       "Award ID": "89233125CNA000429",
       "Recipient Name": "BWXT ORDNANCE TENNESSEE, INC.",
       "Transaction Amount": 68000000.0,
@@ -272,6 +222,16 @@
       "internal_id": 311432673
     },
     {
+      "Award ID": "75D30126F20733",
+      "Recipient Name": "FOUR SEASONS ENVIRONMENTAL INC",
+      "Transaction Amount": 49279467.0,
+      "Awarding Agency": "Department of Health and Human Services",
+      "Transaction Description": "EO 14398",
+      "Action Date": "2026-11-09",
+      "generated_internal_id": "CONT_AWD_75D30126F20733_7523_47QSHA19D001K_4732",
+      "internal_id": 353258112
+    },
+    {
       "Award ID": "47QFCA24F0033",
       "Recipient Name": "V2X AEROSPACE LLC",
       "Transaction Amount": 49102580.0,
@@ -300,6 +260,46 @@
       "Action Date": "2026-10-30",
       "generated_internal_id": "CONT_AWD_75FCMC19C0002_7530_-NONE-_-NONE-",
       "internal_id": 291527776
+    },
+    {
+      "Award ID": "36C10X27N0010",
+      "Recipient Name": "VETERANS EVALUATION SERVICES, INC",
+      "Transaction Amount": 40439603.57,
+      "Awarding Agency": "Department of Veterans Affairs",
+      "Transaction Description": "ADD FUNDS TO TASK ORDER THAT WAS SUBJECT TO THE AVAILABILITY OF FY27 FUNDS",
+      "Action Date": "2026-11-03",
+      "generated_internal_id": "CONT_AWD_36C10X27N0010_3600_36C10X22D0010_3600",
+      "internal_id": 363129412
+    },
+    {
+      "Award ID": "80MSFC27F7003",
+      "Recipient Name": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
+      "Transaction Amount": 39254898.92,
+      "Awarding Agency": "National Aeronautics and Space Administration",
+      "Transaction Description": "SPACE REACTOR-1 FREEDOM HEAT REJECTION SYSTEM",
+      "Action Date": "2026-11-05",
+      "generated_internal_id": "CONT_AWD_80MSFC27F7003_8000_80MSFC20D0004_8000",
+      "internal_id": 363893861
+    },
+    {
+      "Award ID": "75D30126C20710",
+      "Recipient Name": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
+      "Transaction Amount": 38327205.85,
+      "Awarding Agency": "Department of Health and Human Services",
+      "Transaction Description": "EO 14398",
+      "Action Date": "2026-10-29",
+      "generated_internal_id": "CONT_AWD_75D30126C20710_7523_-NONE-_-NONE-",
+      "internal_id": 291513895
+    },
+    {
+      "Award ID": "75FCMC24F0025",
+      "Recipient Name": "SOFTRAMS LLC",
+      "Transaction Amount": 38169037.87,
+      "Awarding Agency": "Department of Health and Human Services",
+      "Transaction Description": "THE QUALITY PAYMENT PROGRAM COLLECTS MEASURES FROM ALL ELIGIBLE CLINICIANS, SCORE THEM, AND COMPARE THEIR PERFORMANCE TO OTHER CLINICIANS IN ORDER TO REWARD THE HIGHER PERFORMING CLINICIANS WITH A POSITIVE PAYMENT ADJUSTMENT, AND REDUCE THE PAYMENTS",
+      "Action Date": "2026-11-09",
+      "generated_internal_id": "CONT_AWD_75FCMC24F0025_7530_GS35F372DA_4732",
+      "internal_id": 291529264
     }
   ]
 }
