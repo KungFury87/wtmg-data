@@ -1,5 +1,5 @@
 {
-  "pulled": "2026-11-12T11:26:20Z",
+  "pulled": "2026-11-13T11:10:17Z",
   "results": [
     {
       "Award ID": "DENA0003525",
@@ -12,16 +12,6 @@
       "internal_id": 295527116
     },
     {
-      "Award ID": "DEAC5207NA27344",
-      "Recipient Name": "LAWRENCE LIVERMORE NATIONAL SECURITY, LLC",
-      "Transaction Amount": 550395935.77,
-      "Awarding Agency": "Department of Energy",
-      "Transaction Description": "MANAGEMENT AND OPERATION OF THE LAWRENCE LIVERMORE NATIONAL LABORATORY",
-      "Action Date": "2026-10-29",
-      "generated_internal_id": "CONT_AWD_DEAC5207NA27344_8900_-NONE-_-NONE-",
-      "internal_id": 295477233
-    },
-    {
       "Award ID": "DENA0001942",
       "Recipient Name": "CONSOLIDATED NUCLEAR SECURITY, LLC",
       "Transaction Amount": 489421124.59,
@@ -30,16 +20,6 @@
       "Action Date": "2026-10-30",
       "generated_internal_id": "CONT_AWD_DENA0001942_8900_-NONE-_-NONE-",
       "internal_id": 295526820
-    },
-    {
-      "Award ID": "DEAC0908SR22470",
-      "Recipient Name": "SAVANNAH RIVER NUCLEAR SOLUTIONS LLC",
-      "Transaction Amount": 378824045.0,
-      "Awarding Agency": "Department of Energy",
-      "Transaction Description": "SAVANNAH RIVER SITE MANAGEMENT & OPERATING (M&O) CONTRACT",
-      "Action Date": "2026-10-29",
-      "generated_internal_id": "CONT_AWD_DEAC0908SR22470_8900_-NONE-_-NONE-",
-      "internal_id": 295476437
     },
     {
       "Award ID": "DENA0002839",
@@ -62,16 +42,6 @@
       "internal_id": 295476106
     },
     {
-      "Award ID": "89233224CNA000004",
-      "Recipient Name": "PANTEXAS DETERRENCE, LLC",
-      "Transaction Amount": 291332739.25,
-      "Awarding Agency": "Department of Energy",
-      "Transaction Description": "MANAGEMENT AND OPERATION OF THE PANTEX PLANT",
-      "Action Date": "2026-10-29",
-      "generated_internal_id": "CONT_AWD_89233224CNA000004_8900_-NONE-_-NONE-",
-      "internal_id": 292027616
-    },
-    {
       "Award ID": "70CDCR27FC0000001",
       "Recipient Name": "CSI AVIATION, INC",
       "Transaction Amount": 277971276.0,
@@ -92,16 +62,6 @@
       "internal_id": 363129409
     },
     {
-      "Award ID": "70ZS0327FKODI0002",
-      "Recipient Name": "GILBANE FEDERAL",
-      "Transaction Amount": 113748477.0,
-      "Awarding Agency": "Department of Homeland Security",
-      "Transaction Description": "DESIGN BUILD RECAPITALIZE BASE KODIAK WATERLINES",
-      "Action Date": "2026-10-29",
-      "generated_internal_id": "CONT_AWD_70ZS0327FKODI0002_7008_70Z04723DPCNI0007_7008",
-      "internal_id": 363774408
-    },
-    {
       "Award ID": "89303523FEM400032",
       "Recipient Name": "UNITED CLEANUP OAK RIDGE LLC",
       "Transaction Amount": 113181680.81,
@@ -110,16 +70,6 @@
       "Action Date": "2026-10-30",
       "generated_internal_id": "CONT_AWD_89303523FEM400032_8900_89303322DEM000067_8900",
       "internal_id": 292037083
-    },
-    {
-      "Award ID": "DEAC0576RL01830",
-      "Recipient Name": "BATTELLE MEMORIAL INSTITUTE",
-      "Transaction Amount": 110988457.68,
-      "Awarding Agency": "Department of Energy",
-      "Transaction Description": "BATTELLE MEMORIAL INSTITUTE/PACIFIC NORTHWEST LABORATORY MANAGEMENT AND OPERATING CONTRACT: THIS UNILATERAL MOD OBLIGATES NON-APPROPRIATED AND DEPARTMENT OF ENERGY FUNDING (TAS 89 0309), (TAS 89 0222), AND (TAS 89 0251).",
-      "Action Date": "2026-10-29",
-      "generated_internal_id": "CONT_AWD_DEAC0576RL01830_8900_-NONE-_-NONE-",
-      "internal_id": 295476174
     },
     {
       "Award ID": "DEAC0705ID14517",
@@ -150,16 +100,6 @@
       "Action Date": "2026-11-03",
       "generated_internal_id": "CONT_AWD_36C10X27N0006_3600_36C10X22D0006_3600",
       "internal_id": 363129408
-    },
-    {
-      "Award ID": "89304223FEM400000",
-      "Recipient Name": "IDAHO ENVIRONMENTAL COALITION LLC",
-      "Transaction Amount": 83219200.0,
-      "Awarding Agency": "Department of Energy",
-      "Transaction Description": "IDAHO CLEANUP PROJECT (ICP) END STATE CONTRACT THE PURPOSE OF THIS MODIFICATION IS TO OBLIGATE FUNDING TO TASK ORDER 3.2, INTEGRATION AND MISSION CONTINUITY; AND TASK ORDER 7.2, INTEGRATED WASTE TREATMENT UNIT OPERATIONS.",
-      "Action Date": "2026-10-29",
-      "generated_internal_id": "CONT_AWD_89304223FEM400000_8900_89303321DEM000061_8900",
-      "internal_id": 292037929
     },
     {
       "Award ID": "36C10X27N0008",
@@ -210,16 +150,6 @@
       "Action Date": "2026-11-03",
       "generated_internal_id": "CONT_AWD_36C10A20F0309_3600_GS00Q17NSD3000_4732",
       "internal_id": 279966202
-    },
-    {
-      "Award ID": "NNM16AA02C",
-      "Recipient Name": "AEROJET ROCKETDYNE OF DE, INC",
-      "Transaction Amount": 53422103.0,
-      "Awarding Agency": "National Aeronautics and Space Administration",
-      "Transaction Description": "RS-25 PRODUCTION RESTART TO BE UNDERTAKEN BY THE CONTRACTOR IN SUPPORT OF PROVIDING TWENTY-FOUR RS-25 ENGINES MODIFIED AS NECESSARY FOR THE TECHNICAL REQUIREMENT UNDER THE SPACE LAUNCH SYSTEM",
-      "Action Date": "2026-10-29",
-      "generated_internal_id": "CONT_AWD_NNM16AA02C_8000_-NONE-_-NONE-",
-      "internal_id": 311432673
     },
     {
       "Award ID": "75D30126F20733",
@@ -282,16 +212,6 @@
       "internal_id": 363893861
     },
     {
-      "Award ID": "75D30126C20710",
-      "Recipient Name": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
-      "Transaction Amount": 38327205.85,
-      "Awarding Agency": "Department of Health and Human Services",
-      "Transaction Description": "EO 14398",
-      "Action Date": "2026-10-29",
-      "generated_internal_id": "CONT_AWD_75D30126C20710_7523_-NONE-_-NONE-",
-      "internal_id": 291513895
-    },
-    {
       "Award ID": "75FCMC24F0025",
       "Recipient Name": "SOFTRAMS LLC",
       "Transaction Amount": 38169037.87,
@@ -300,6 +220,86 @@
       "Action Date": "2026-11-09",
       "generated_internal_id": "CONT_AWD_75FCMC24F0025_7530_GS35F372DA_4732",
       "internal_id": 291529264
+    },
+    {
+      "Award ID": "HHSM500T0001",
+      "Recipient Name": "SAFEGUARD SERVICES LLC",
+      "Transaction Amount": 35425268.07,
+      "Awarding Agency": "Department of Health and Human Services",
+      "Transaction Description": "UPIC TASK ORDER AWARD TO COMBAT FRAUD, WASTE AND ABUSE IN THE NORTH-EASTERN JURISDICTION",
+      "Action Date": "2026-10-30",
+      "generated_internal_id": "CONT_AWD_HHSM500T0001_7530_HHSM500201600083I_7530",
+      "internal_id": 306880712
+    },
+    {
+      "Award ID": "15JPSS26F00000020",
+      "Recipient Name": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+      "Transaction Amount": 33092430.05,
+      "Awarding Agency": "Department of Justice",
+      "Transaction Description": "SAIC FORFEITURE SYSTEMS INFORMATION TECHNOLOGY SYSTEM (FSITS) CALL ORDER",
+      "Action Date": "2026-11-03",
+      "generated_internal_id": "CONT_AWD_15JPSS26F00000020_1501_15JPSS25A00000046_1501",
+      "internal_id": 352968481
+    },
+    {
+      "Award ID": "75D30127F00019",
+      "Recipient Name": "NATIONAL OPINION RESEARCH CENTER",
+      "Transaction Amount": 32559906.0,
+      "Awarding Agency": "Department of Health and Human Services",
+      "Transaction Description": "NIS-CHILD EO 14398",
+      "Action Date": "2026-11-09",
+      "generated_internal_id": "CONT_AWD_75D30127F00019_7523_75D30123D17068_7523",
+      "internal_id": 363910148
+    },
+    {
+      "Award ID": "70SBUR26F00000002",
+      "Recipient Name": "SALIENT CRGT, INC.",
+      "Transaction Amount": 32367589.48,
+      "Awarding Agency": "Department of Homeland Security",
+      "Transaction Description": "THE PURPOSE OF THIS MODIFICATION IS TO EXERCISE OPTION PERIOD 1.",
+      "Action Date": "2026-11-05",
+      "generated_internal_id": "CONT_AWD_70SBUR26F00000002_7003_47QTCK18D0060_4732",
+      "internal_id": 353166886
+    },
+    {
+      "Award ID": "70CDCR27FR0000002",
+      "Recipient Name": "SK2 LLC",
+      "Transaction Amount": 31777231.0,
+      "Awarding Agency": "Department of Homeland Security",
+      "Transaction Description": "THIS TASK ORDER IS TO PROCURE THE RENOVATION OF EXISTING, ICE-OWNED PERMANENT STRUCTURE IN SAN ANTONIO, TX TO SERVE AS A PROCESSING AND DETENTION FACILITY AND PROVIDE ALL NECESSARY WRAPAROUND SERVICES FOR OPERATION OF THE FACILITY.",
+      "Action Date": "2026-11-05",
+      "generated_internal_id": "CONT_AWD_70CDCR27FR0000002_7012_N0002325D0139_9700",
+      "internal_id": 363893403
+    },
+    {
+      "Award ID": "15JPSS26F00001168",
+      "Recipient Name": "AMERICAN EAGLE PROTECTIVE SERVICES CORP",
+      "Transaction Amount": 30014851.1,
+      "Awarding Agency": "Department of Justice",
+      "Transaction Description": "DOJ JMD SEPS GUARD AND SECURITY SERVICES",
+      "Action Date": "2026-10-30",
+      "generated_internal_id": "CONT_AWD_15JPSS26F00001168_1501_47QSMS26D0048_4732",
+      "internal_id": 358592616
+    },
+    {
+      "Award ID": "W912DQ27CA002",
+      "Recipient Name": "CAPE-APTIM JV1, LLC",
+      "Transaction Amount": 30000000.0,
+      "Awarding Agency": "Department of Defense",
+      "Transaction Description": "ROEBLING RA OU4/OU5",
+      "Action Date": "2026-11-05",
+      "generated_internal_id": "CONT_AWD_W912DQ27CA002_9700_-NONE-_-NONE-",
+      "internal_id": 363896636
+    },
+    {
+      "Award ID": "DEAC0576RL01830",
+      "Recipient Name": "BATTELLE MEMORIAL INSTITUTE",
+      "Transaction Amount": 29183371.0,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "BATTELLE MEMORIAL INSTITUTE/PACIFIC NORTHWEST LABORATORY MANAGEMENT AND OPERATING CONTRACT: THIS UNILATERAL MOD OBLIGATES DEPARTMENT OF ENERGY FUNDING (TAS 89 0222) AND NON-APPROPRIATED.",
+      "Action Date": "2026-11-06",
+      "generated_internal_id": "CONT_AWD_DEAC0576RL01830_8900_-NONE-_-NONE-",
+      "internal_id": 295476174
     }
   ]
 }
