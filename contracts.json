@@ -1,16 +1,6 @@
 {
-  "pulled": "2026-11-14T10:36:47Z",
+  "pulled": "2026-11-15T11:07:38Z",
   "results": [
-    {
-      "Award ID": "70CDCR27FC0000001",
-      "Recipient Name": "CSI AVIATION, INC",
-      "Transaction Amount": 277971276.0,
-      "Awarding Agency": "Department of Homeland Security",
-      "Transaction Description": "THIS CALL ORDER OBTAINS DEDICATED AND ON-DEMAND CHARTERED FLIGHT SERVICES FOR ENFORCEMENT AND REMOVAL OPERATIONS UNDER THE ICE AIR PROGRAM. ICE AIR FACILITATES THE SAFE, SECURE, AND COST-EFFECTIVE TRANSPORTATION AND DEPORTATION OF ILLEGAL ALIENS.",
-      "Action Date": "2026-10-31",
-      "generated_internal_id": "CONT_AWD_70CDCR27FC0000001_7012_70CDCR24A00000001_7012",
-      "internal_id": 363780565
-    },
     {
       "Award ID": "36C10X27N0007",
       "Recipient Name": "QTC MEDICAL SERVICES INC",
@@ -176,7 +166,7 @@
       "Recipient Name": "SK2 LLC",
       "Transaction Amount": 31777231.0,
       "Awarding Agency": "Department of Homeland Security",
-      "Transaction Description": "THIS TASK ORDER IS TO PROCURE THE RENOVATION OF EXISTING, ICE-OWNED PERMANENT STRUCTURE IN SAN ANTONIO, TX TO SERVE AS A PROCESSING AND DETENTION FACILITY AND PROVIDE ALL NECESSARY WRAPAROUND SERVICES FOR OPERATION OF THE FACILITY.",
+      "Transaction Description": "THIS TASK ORDER IS TO PROCURE MAINTENANCE, AND DEVELOP A DESIGN FOR RENOVATION OF THE EXISTING ICE-OWNED PERMANENT STRUCTURE IN ROXBURY, NJ TO SERVE AS A PROCESSING AND DETENTION FACILITY AND PROVIDE WRAPAROUND SERVICES FOR OPERATION OF THE FACILITY.",
       "Action Date": "2026-11-05",
       "generated_internal_id": "CONT_AWD_70CDCR27FR0000002_7012_N0002325D0139_9700",
       "internal_id": 363893403
@@ -200,6 +190,16 @@
       "Action Date": "2026-11-06",
       "generated_internal_id": "CONT_AWD_DEAC0576RL01830_8900_-NONE-_-NONE-",
       "internal_id": 295476174
+    },
+    {
+      "Award ID": "70CDCR26FR0000101",
+      "Recipient Name": "THE GEO GROUP, INC.",
+      "Transaction Amount": 28423856.0,
+      "Awarding Agency": "Department of Homeland Security",
+      "Transaction Description": "THIS MODIFICATION OBLIGATES ADDITIONAL FUNDING FOR DETENTION AND DETENTION RELATED SERVICES AT THE BIG HORN DETENTION FACILITY IN HUDSON, COLORADO.",
+      "Action Date": "2026-11-13",
+      "generated_internal_id": "CONT_AWD_70CDCR26FR0000101_7012_70CDCR26D00000049_7012",
+      "internal_id": 360253970
     },
     {
       "Award ID": "2031JG27F56096",
@@ -252,6 +252,16 @@
       "internal_id": 363838038
     },
     {
+      "Award ID": "6933A227F00007N",
+      "Recipient Name": "CROWLEY GOVERNMENT SERVICES, INC.",
+      "Transaction Amount": 24657158.8,
+      "Awarding Agency": "Department of Transportation",
+      "Transaction Description": "SHIP REPAIR AND SERVICE TO COMPLETE A DRY-DOCKING PERIOD.",
+      "Action Date": "2026-11-10",
+      "generated_internal_id": "CONT_AWD_6933A227F00007N_6938_693JF721D000007_6938",
+      "internal_id": 363936106
+    },
+    {
       "Award ID": "140D0426F0370",
       "Recipient Name": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
       "Transaction Amount": 22994822.52,
@@ -290,16 +300,6 @@
       "Action Date": "2026-11-04",
       "generated_internal_id": "CONT_AWD_70B01C25F00001151_7014_70B01C23D00000009_7014",
       "internal_id": 291174628
-    },
-    {
-      "Award ID": "36S79724F0001",
-      "Recipient Name": "UNITED PARCEL SERVICE CO.",
-      "Transaction Amount": 19517000.0,
-      "Awarding Agency": "Department of Veterans Affairs",
-      "Transaction Description": "SHIPPING CHARGES",
-      "Action Date": "2026-11-05",
-      "generated_internal_id": "CONT_AWD_36S79724F0001_3600_HTC71117DC003_9700",
-      "internal_id": 280478748
     }
   ]
 }
