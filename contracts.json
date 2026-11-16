@@ -1,5 +1,5 @@
 {
-  "pulled": "2026-11-15T11:07:38Z",
+  "pulled": "2026-11-16T11:37:01Z",
   "results": [
     {
       "Award ID": "36C10X27N0007",
@@ -120,6 +120,16 @@
       "Action Date": "2026-11-05",
       "generated_internal_id": "CONT_AWD_80MSFC27F7003_8000_80MSFC20D0004_8000",
       "internal_id": 363893861
+    },
+    {
+      "Award ID": "75FCMC27F0004",
+      "Recipient Name": "C&T TECHNOLOGIES LLC",
+      "Transaction Amount": 38648020.9,
+      "Awarding Agency": "Department of Health and Human Services",
+      "Transaction Description": "SEE THE STATEMENT OF OBJECTIVES (SOO), INCLUDING ALL EXHIBITS/APPENDICES",
+      "Action Date": "2026-11-14",
+      "generated_internal_id": "CONT_AWD_75FCMC27F0004_7530_HHSM500201700012I_7530",
+      "internal_id": 363937771
     },
     {
       "Award ID": "75FCMC24F0025",
@@ -290,16 +300,6 @@
       "Action Date": "2026-11-09",
       "generated_internal_id": "CONT_AWD_36C77627C0011_3600_-NONE-_-NONE-",
       "internal_id": 363899100
-    },
-    {
-      "Award ID": "70B01C25F00001151",
-      "Recipient Name": "BCCG A JOINT VENTURE",
-      "Transaction Amount": 21628000.0,
-      "Awarding Agency": "Department of Homeland Security",
-      "Transaction Description": "ADDED CONSTRUCTION WORK",
-      "Action Date": "2026-11-04",
-      "generated_internal_id": "CONT_AWD_70B01C25F00001151_7014_70B01C23D00000009_7014",
-      "internal_id": 291174628
     }
   ]
 }
