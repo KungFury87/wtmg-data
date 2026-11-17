@@ -1,5 +1,5 @@
 {
-  "pulled": "2026-11-16T11:37:01Z",
+  "pulled": "2026-11-17T12:00:11Z",
   "results": [
     {
       "Award ID": "36C10X27N0007",
@@ -252,16 +252,6 @@
       "internal_id": 360873864
     },
     {
-      "Award ID": "80JSC027F7004",
-      "Recipient Name": "BLUE ORIGIN, LLC",
-      "Transaction Amount": 25380000.0,
-      "Awarding Agency": "National Aeronautics and Space Administration",
-      "Transaction Description": "COMMERCIAL LUNAR PAYLOAD SERVICES (CLPS) CONTRACT TASK ORDER CX-2C",
-      "Action Date": "2026-11-02",
-      "generated_internal_id": "CONT_AWD_80JSC027F7004_8000_80JSC020D0010_8000",
-      "internal_id": 363838038
-    },
-    {
       "Award ID": "6933A227F00007N",
       "Recipient Name": "CROWLEY GOVERNMENT SERVICES, INC.",
       "Transaction Amount": 24657158.8,
@@ -300,6 +290,16 @@
       "Action Date": "2026-11-09",
       "generated_internal_id": "CONT_AWD_36C77627C0011_3600_-NONE-_-NONE-",
       "internal_id": 363899100
+    },
+    {
+      "Award ID": "70B01C25F00001151",
+      "Recipient Name": "BCCG A JOINT VENTURE",
+      "Transaction Amount": 21628000.0,
+      "Awarding Agency": "Department of Homeland Security",
+      "Transaction Description": "ADDED CONSTRUCTION WORK",
+      "Action Date": "2026-11-04",
+      "generated_internal_id": "CONT_AWD_70B01C25F00001151_7014_70B01C23D00000009_7014",
+      "internal_id": 291174628
     }
   ]
 }
