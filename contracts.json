@@ -1,35 +1,25 @@
 {
-  "pulled": "2026-11-17T12:00:11Z",
+  "pulled": "2026-11-18T11:53:25Z",
   "results": [
     {
-      "Award ID": "36C10X27N0007",
-      "Recipient Name": "QTC MEDICAL SERVICES INC",
-      "Transaction Amount": 158762599.55,
-      "Awarding Agency": "Department of Veterans Affairs",
-      "Transaction Description": "ADD FUNDS TO TASK ORDER THAT WAS SUBJECT TO THE AVAILABILITY OF FY27 FUNDS",
-      "Action Date": "2026-11-03",
-      "generated_internal_id": "CONT_AWD_36C10X27N0007_3600_36C10X22D0007_3600",
-      "internal_id": 363129409
+      "Award ID": "70ZS0727FPCNI0002",
+      "Recipient Name": "WHITING-TURNER CONTRACTING COMPANY, THE",
+      "Transaction Amount": 155000000.0,
+      "Awarding Agency": "Department of Homeland Security",
+      "Transaction Description": "USCGA STEM BUILDING DESIGN BUILD",
+      "Action Date": "2026-11-16",
+      "generated_internal_id": "CONT_AWD_70ZS0727FPCNI0002_7008_70Z04723DPCNI0006_7008",
+      "internal_id": 364019382
     },
     {
-      "Award ID": "36C10X27N0009",
-      "Recipient Name": "QTC MEDICAL SERVICES INC",
-      "Transaction Amount": 87556157.11,
+      "Award ID": "36C10B24F0237",
+      "Recipient Name": "DELOITTE CONSULTING LLP",
+      "Transaction Amount": 74779110.54,
       "Awarding Agency": "Department of Veterans Affairs",
-      "Transaction Description": "ADD FUNDS TO TASK ORDER THAT WAS SUBJECT TO THE AVAILABILITY OF FY27 FUNDS",
-      "Action Date": "2026-11-03",
-      "generated_internal_id": "CONT_AWD_36C10X27N0009_3600_36C10X22D0009_3600",
-      "internal_id": 363129411
-    },
-    {
-      "Award ID": "36C10X27N0006",
-      "Recipient Name": "OPTUMSERVE HEALTH SERVICES, INC.",
-      "Transaction Amount": 83406416.48,
-      "Awarding Agency": "Department of Veterans Affairs",
-      "Transaction Description": "ADD FUNDS TO TASK ORDER THAT WAS SUBJECT TO THE AVAILABILITY OF FY27 FUNDS",
-      "Action Date": "2026-11-03",
-      "generated_internal_id": "CONT_AWD_36C10X27N0006_3600_36C10X22D0006_3600",
-      "internal_id": 363129408
+      "Transaction Description": "THIS REQUIREMENT SHALL PROVIDE SUPPORT WHICH SHALL INCLUDE: CAPABILITY DELIVERY LIFECYCLE MANAGEMENT, ENHANCEMENT/DEVELOPMENT DELIVERY, CONFIGURATION, ADDITIONAL ENHANCEMENT/DEVELOPMENT DELIVERY, PTEMS ENHANCEMENTS AND DEVELOPMENT",
+      "Action Date": "2026-11-16",
+      "generated_internal_id": "CONT_AWD_36C10B24F0237_3600_47QTCK18D0029_4732",
+      "internal_id": 279970499
     },
     {
       "Award ID": "DEAC2701RV14136",
@@ -40,16 +30,6 @@
       "Action Date": "2026-11-12",
       "generated_internal_id": "CONT_AWD_DEAC2701RV14136_8900_-NONE-_-NONE-",
       "internal_id": 295476901
-    },
-    {
-      "Award ID": "36C10X27N0008",
-      "Recipient Name": "VETERANS EVALUATION SERVICES, INC",
-      "Transaction Amount": 70243668.35,
-      "Awarding Agency": "Department of Veterans Affairs",
-      "Transaction Description": "ADD FUNDS TO TASK ORDER THAT WAS SUBJECT TO THE AVAILABILITY OF FY27 FUNDS",
-      "Action Date": "2026-11-03",
-      "generated_internal_id": "CONT_AWD_36C10X27N0008_3600_36C10X22D0008_3600",
-      "internal_id": 363129410
     },
     {
       "Award ID": "70CDCR26FR0000112",
@@ -72,16 +52,6 @@
       "internal_id": 292027515
     },
     {
-      "Award ID": "36C10A20F0309",
-      "Recipient Name": "AT&T ENTERPRISES, LLC",
-      "Transaction Amount": 61357795.0,
-      "Awarding Agency": "Department of Veterans Affairs",
-      "Transaction Description": "EO 14398   ENTERPRISE DATA NETWORK SERVICES CARRIER B",
-      "Action Date": "2026-11-03",
-      "generated_internal_id": "CONT_AWD_36C10A20F0309_3600_GS00Q17NSD3000_4732",
-      "internal_id": 279966202
-    },
-    {
       "Award ID": "75D30126F20733",
       "Recipient Name": "FOUR SEASONS ENVIRONMENTAL INC",
       "Transaction Amount": 49279467.0,
@@ -100,16 +70,6 @@
       "Action Date": "2026-11-05",
       "generated_internal_id": "CONT_AWD_47QFCA24F0033_4732_47QFCA22D0344_4732",
       "internal_id": 281082430
-    },
-    {
-      "Award ID": "36C10X27N0010",
-      "Recipient Name": "VETERANS EVALUATION SERVICES, INC",
-      "Transaction Amount": 40439603.57,
-      "Awarding Agency": "Department of Veterans Affairs",
-      "Transaction Description": "ADD FUNDS TO TASK ORDER THAT WAS SUBJECT TO THE AVAILABILITY OF FY27 FUNDS",
-      "Action Date": "2026-11-03",
-      "generated_internal_id": "CONT_AWD_36C10X27N0010_3600_36C10X22D0010_3600",
-      "internal_id": 363129412
     },
     {
       "Award ID": "80MSFC27F7003",
@@ -140,16 +100,6 @@
       "Action Date": "2026-11-09",
       "generated_internal_id": "CONT_AWD_75FCMC24F0025_7530_GS35F372DA_4732",
       "internal_id": 291529264
-    },
-    {
-      "Award ID": "15JPSS26F00000020",
-      "Recipient Name": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
-      "Transaction Amount": 33092430.05,
-      "Awarding Agency": "Department of Justice",
-      "Transaction Description": "SAIC FORFEITURE SYSTEMS INFORMATION TECHNOLOGY SYSTEM (FSITS) CALL ORDER",
-      "Action Date": "2026-11-03",
-      "generated_internal_id": "CONT_AWD_15JPSS26F00000020_1501_15JPSS25A00000046_1501",
-      "internal_id": 352968481
     },
     {
       "Award ID": "75D30127F00019",
@@ -232,6 +182,16 @@
       "internal_id": 291206442
     },
     {
+      "Award ID": "36C77627C0017",
+      "Recipient Name": "SEMPER TEK CMS JV LLC",
+      "Transaction Amount": 26705489.0,
+      "Awarding Agency": "Department of Veterans Affairs",
+      "Transaction Description": "CONSTRUCTION TO PROVIDE INFRASTRUCTURE UPGRADES TO SUPPORT EHRM AT ASHEVILLE VAMC CAMPUS.",
+      "Action Date": "2026-11-16",
+      "generated_internal_id": "CONT_AWD_36C77627C0017_3600_-NONE-_-NONE-",
+      "internal_id": 364018619
+    },
+    {
       "Award ID": "36C24427C0002",
       "Recipient Name": "SERVIAM CONSTRUCTION LLC",
       "Transaction Amount": 26009451.0,
@@ -300,6 +260,46 @@
       "Action Date": "2026-11-04",
       "generated_internal_id": "CONT_AWD_70B01C25F00001151_7014_70B01C23D00000009_7014",
       "internal_id": 291174628
+    },
+    {
+      "Award ID": "140PP027C0008",
+      "Recipient Name": "PAULSEN CONSTRUCTION LLC",
+      "Transaction Amount": 21340920.0,
+      "Awarding Agency": "Department of the Interior",
+      "Transaction Description": "YELL 326141 YELLOWSTONE MODULAR HOUSING",
+      "Action Date": "2026-11-13",
+      "generated_internal_id": "CONT_AWD_140PP027C0008_1406_-NONE-_-NONE-",
+      "internal_id": 363933070
+    },
+    {
+      "Award ID": "47QFCA25F0033",
+      "Recipient Name": "BOOZ ALLEN HAMILTON INC",
+      "Transaction Amount": 20404653.0,
+      "Awarding Agency": "General Services Administration",
+      "Transaction Description": "AFRL SHADOW RAPTOR. MODIFICATION TO ADD INCREMENTAL FUNDS AND EXECUTE ADMINISTRATIVE CHANGES TO UPDATE CONTRACTING OFFICER'S REPRESENTATIVE DESIGNATION AND DD254 REVISION 01.",
+      "Action Date": "2026-11-13",
+      "generated_internal_id": "CONT_AWD_47QFCA25F0033_4732_47QTCK18D0004_4732",
+      "internal_id": 281082478
+    },
+    {
+      "Award ID": "36S79724F0001",
+      "Recipient Name": "UNITED PARCEL SERVICE CO.",
+      "Transaction Amount": 19517000.0,
+      "Awarding Agency": "Department of Veterans Affairs",
+      "Transaction Description": "SHIPPING CHARGES",
+      "Action Date": "2026-11-05",
+      "generated_internal_id": "CONT_AWD_36S79724F0001_3600_HTC71117DC003_9700",
+      "internal_id": 280478748
+    },
+    {
+      "Award ID": "75ACF124F80023",
+      "Recipient Name": "JBS INTERNATIONAL, INC.",
+      "Transaction Amount": 19005903.12,
+      "Awarding Agency": "Department of Health and Human Services",
+      "Transaction Description": "NATIONAL CHILD WELFARE CENTER FOR INNOVATION AND ADVANCEMENT (NCWCIA) FOR ACF/ACYF",
+      "Action Date": "2026-11-09",
+      "generated_internal_id": "CONT_AWD_75ACF124F80023_7590_47QRAA18D00AE_4732",
+      "internal_id": 291495428
     }
   ]
 }
