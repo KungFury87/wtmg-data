@@ -1,5 +1,5 @@
 {
-  "pulled": "2026-11-18T11:53:25Z",
+  "pulled": "2026-11-19T11:49:48Z",
   "results": [
     {
       "Award ID": "70ZS0727FPCNI0002",
@@ -50,6 +50,16 @@
       "Action Date": "2026-11-05",
       "generated_internal_id": "CONT_AWD_89233125CNA000429_8900_-NONE-_-NONE-",
       "internal_id": 292027515
+    },
+    {
+      "Award ID": "693KA821F00222",
+      "Recipient Name": "HARRIS CORPORATION",
+      "Transaction Amount": 56337615.06,
+      "Awarding Agency": "Department of Transportation",
+      "Transaction Description": "THE PURPOSE OF THIS DELIVERY ORDER AWARD IS TO ADD FUNDING FOR FTI TELECOMMUNICATIONS SERVICES.",
+      "Action Date": "2026-11-17",
+      "generated_internal_id": "CONT_AWD_693KA821F00222_6920_DTFA0102D03006_6920",
+      "internal_id": 291057065
     },
     {
       "Award ID": "75D30126F20733",
@@ -132,6 +142,16 @@
       "internal_id": 363893403
     },
     {
+      "Award ID": "70Z02326C93210003",
+      "Recipient Name": "DAVIE DEFENSE INC.",
+      "Transaction Amount": 31500000.0,
+      "Awarding Agency": "Department of Homeland Security",
+      "Transaction Description": "PROCUREMENT OF FIVE (5) MULTI-PURPOSE POLAR SHIP (MPPS-100) ARCTIC SECURITY CUTTERS (ASCS)",
+      "Action Date": "2026-11-17",
+      "generated_internal_id": "CONT_AWD_70Z02326C93210003_7008_-NONE-_-NONE-",
+      "internal_id": 355199052
+    },
+    {
       "Award ID": "W912DQ27CA002",
       "Recipient Name": "CAPE-APTIM JV1, LLC",
       "Transaction Amount": 30000000.0,
@@ -212,6 +232,16 @@
       "internal_id": 360873864
     },
     {
+      "Award ID": "70Z02326C93210002",
+      "Recipient Name": "BOLLINGER SHIPYARDS LOCKPORT, L.L.C.",
+      "Transaction Amount": 25200000.0,
+      "Awarding Agency": "Department of Homeland Security",
+      "Transaction Description": "PURCHASE OF FOUR (4) ARCTIC SECURITY CUTTERS FOR THE USCG MODIFICATION P00003 TO MAKE IN SCOPE CHANGES TO LLTM",
+      "Action Date": "2026-11-17",
+      "generated_internal_id": "CONT_AWD_70Z02326C93210002_7008_-NONE-_-NONE-",
+      "internal_id": 353959768
+    },
+    {
       "Award ID": "6933A227F00007N",
       "Recipient Name": "CROWLEY GOVERNMENT SERVICES, INC.",
       "Transaction Amount": 24657158.8,
@@ -220,6 +250,16 @@
       "Action Date": "2026-11-10",
       "generated_internal_id": "CONT_AWD_6933A227F00007N_6938_693JF721D000007_6938",
       "internal_id": 363936106
+    },
+    {
+      "Award ID": "70CDCR27FR0000010",
+      "Recipient Name": "THE GEO GROUP, INC.",
+      "Transaction Amount": 24256301.0,
+      "Awarding Agency": "Department of Homeland Security",
+      "Transaction Description": "TASK ORDER TO PROVIDE COMPREHENSIVE DETENTION, SECURITY, HEALTHCARE, TRANSPORTATION AND SUPPORTS SERVICES AT THE NORTHWEST ICE PROCESSING CENTER (TACOMA, WA) IN SUPPORT OF ERO.",
+      "Action Date": "2026-11-13",
+      "generated_internal_id": "CONT_AWD_70CDCR27FR0000010_7012_70CDCR27D00000002_7012",
+      "internal_id": 364103878
     },
     {
       "Award ID": "140D0426F0370",
@@ -252,16 +292,6 @@
       "internal_id": 363899100
     },
     {
-      "Award ID": "70B01C25F00001151",
-      "Recipient Name": "BCCG A JOINT VENTURE",
-      "Transaction Amount": 21628000.0,
-      "Awarding Agency": "Department of Homeland Security",
-      "Transaction Description": "ADDED CONSTRUCTION WORK",
-      "Action Date": "2026-11-04",
-      "generated_internal_id": "CONT_AWD_70B01C25F00001151_7014_70B01C23D00000009_7014",
-      "internal_id": 291174628
-    },
-    {
       "Award ID": "140PP027C0008",
       "Recipient Name": "PAULSEN CONSTRUCTION LLC",
       "Transaction Amount": 21340920.0,
@@ -270,36 +300,6 @@
       "Action Date": "2026-11-13",
       "generated_internal_id": "CONT_AWD_140PP027C0008_1406_-NONE-_-NONE-",
       "internal_id": 363933070
-    },
-    {
-      "Award ID": "47QFCA25F0033",
-      "Recipient Name": "BOOZ ALLEN HAMILTON INC",
-      "Transaction Amount": 20404653.0,
-      "Awarding Agency": "General Services Administration",
-      "Transaction Description": "AFRL SHADOW RAPTOR. MODIFICATION TO ADD INCREMENTAL FUNDS AND EXECUTE ADMINISTRATIVE CHANGES TO UPDATE CONTRACTING OFFICER'S REPRESENTATIVE DESIGNATION AND DD254 REVISION 01.",
-      "Action Date": "2026-11-13",
-      "generated_internal_id": "CONT_AWD_47QFCA25F0033_4732_47QTCK18D0004_4732",
-      "internal_id": 281082478
-    },
-    {
-      "Award ID": "36S79724F0001",
-      "Recipient Name": "UNITED PARCEL SERVICE CO.",
-      "Transaction Amount": 19517000.0,
-      "Awarding Agency": "Department of Veterans Affairs",
-      "Transaction Description": "SHIPPING CHARGES",
-      "Action Date": "2026-11-05",
-      "generated_internal_id": "CONT_AWD_36S79724F0001_3600_HTC71117DC003_9700",
-      "internal_id": 280478748
-    },
-    {
-      "Award ID": "75ACF124F80023",
-      "Recipient Name": "JBS INTERNATIONAL, INC.",
-      "Transaction Amount": 19005903.12,
-      "Awarding Agency": "Department of Health and Human Services",
-      "Transaction Description": "NATIONAL CHILD WELFARE CENTER FOR INNOVATION AND ADVANCEMENT (NCWCIA) FOR ACF/ACYF",
-      "Action Date": "2026-11-09",
-      "generated_internal_id": "CONT_AWD_75ACF124F80023_7590_47QRAA18D00AE_4732",
-      "internal_id": 291495428
     }
   ]
 }
