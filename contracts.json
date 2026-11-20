@@ -1,5 +1,5 @@
 {
-  "pulled": "2026-11-19T11:49:48Z",
+  "pulled": "2026-11-20T11:51:12Z",
   "results": [
     {
       "Award ID": "70ZS0727FPCNI0002",
@@ -10,6 +10,16 @@
       "Action Date": "2026-11-16",
       "generated_internal_id": "CONT_AWD_70ZS0727FPCNI0002_7008_70Z04723DPCNI0006_7008",
       "internal_id": 364019382
+    },
+    {
+      "Award ID": "70RDA225FR0000018",
+      "Recipient Name": "SALUS WORLDWIDE SOLUTIONS CORP.",
+      "Transaction Amount": 150000000.0,
+      "Awarding Agency": "Department of Homeland Security",
+      "Transaction Description": "THE PURPOSE OF THIS MODIFICATION IS TO ESTABLISH A SUPPLEMENTAL AGREEMENT FOR WORK WITHIN SCOPE.",
+      "Action Date": "2026-11-10",
+      "generated_internal_id": "CONT_AWD_70RDA225FR0000018_7001_70RDA225D00000005_7001",
+      "internal_id": 291238350
     },
     {
       "Award ID": "36C10B24F0237",
@@ -42,14 +52,14 @@
       "internal_id": 361351589
     },
     {
-      "Award ID": "89233125CNA000429",
-      "Recipient Name": "BWXT ORDNANCE TENNESSEE, INC.",
-      "Transaction Amount": 68000000.0,
-      "Awarding Agency": "Department of Energy",
-      "Transaction Description": "HIGH PURITY DEPLETED URANIUM (HPDU) PRODUCTION SERVICES",
-      "Action Date": "2026-11-05",
-      "generated_internal_id": "CONT_AWD_89233125CNA000429_8900_-NONE-_-NONE-",
-      "internal_id": 292027515
+      "Award ID": "75FCMC20C0026",
+      "Recipient Name": "WELLPOINT FEDERAL SOLUTIONS, INC.",
+      "Transaction Amount": 62514487.0,
+      "Awarding Agency": "Department of Health and Human Services",
+      "Transaction Description": "A/B MAC J6",
+      "Action Date": "2026-11-18",
+      "generated_internal_id": "CONT_AWD_75FCMC20C0026_7530_-NONE-_-NONE-",
+      "internal_id": 291528172
     },
     {
       "Award ID": "693KA821F00222",
@@ -72,24 +82,14 @@
       "internal_id": 353258112
     },
     {
-      "Award ID": "47QFCA24F0033",
-      "Recipient Name": "V2X AEROSPACE LLC",
-      "Transaction Amount": 49102580.0,
-      "Awarding Agency": "General Services Administration",
-      "Transaction Description": "WARFIGHTERTRAINING READINESS SOLUTIONS WTRS",
-      "Action Date": "2026-11-05",
-      "generated_internal_id": "CONT_AWD_47QFCA24F0033_4732_47QFCA22D0344_4732",
-      "internal_id": 281082430
-    },
-    {
-      "Award ID": "80MSFC27F7003",
-      "Recipient Name": "THE JOHNS HOPKINS UNIVERSITY APPLIED PHYSICS LABORATORY LLC",
-      "Transaction Amount": 39254898.92,
-      "Awarding Agency": "National Aeronautics and Space Administration",
-      "Transaction Description": "SPACE REACTOR-1 FREEDOM HEAT REJECTION SYSTEM",
-      "Action Date": "2026-11-05",
-      "generated_internal_id": "CONT_AWD_80MSFC27F7003_8000_80MSFC20D0004_8000",
-      "internal_id": 363893861
+      "Award ID": "7200AA23C00012",
+      "Recipient Name": "ABT GLOBAL LLC",
+      "Transaction Amount": 43913564.35,
+      "Awarding Agency": "Department of State",
+      "Transaction Description": "MODIFICATION TO ADMINISTRATIVELY MOVE FUNDING FROM USAID TO STATE SYSTEMS FOR CONTINUED SUPPORT OF SERVICING AND MANAGEMENT OF USAID AWARD (19AQMM27C0023)",
+      "Action Date": "2026-11-18",
+      "generated_internal_id": "CONT_AWD_7200AA23C00012_7200_-NONE-_-NONE-",
+      "internal_id": 291386654
     },
     {
       "Award ID": "75FCMC27F0004",
@@ -112,6 +112,26 @@
       "internal_id": 291529264
     },
     {
+      "Award ID": "2031JG27F56097",
+      "Recipient Name": "STONEX FINANCIAL LTD",
+      "Transaction Amount": 34457385.24,
+      "Awarding Agency": "Department of the Treasury",
+      "Transaction Description": "SILVER RAW MATERIAL MINT MAC SILVER BULLION",
+      "Action Date": "2026-11-18",
+      "generated_internal_id": "CONT_AWD_2031JG27F56097_2044_2031JG21D00023_2044",
+      "internal_id": 364118224
+    },
+    {
+      "Award ID": "80JSC026FA106",
+      "Recipient Name": "VENTURI ASTROLAB INC",
+      "Transaction Amount": 32839700.1,
+      "Awarding Agency": "National Aeronautics and Space Administration",
+      "Transaction Description": "THE LUNAR TERRAIN VEHICLE SERVICES (LTVS) HIGH ACHIEVABILITY MISSION CAMPAIGN IS A SERIES OF PHASED, MISSION UNIQUE, TASK ORDERS AIMED TO ACCELERATE DELIVERY OF LTV CAPABILITY FOR NEAR TERM LUNAR EXPLORATION.",
+      "Action Date": "2026-11-18",
+      "generated_internal_id": "CONT_AWD_80JSC026FA106_8000_80JSC024DA022_8000",
+      "internal_id": 358674169
+    },
+    {
       "Award ID": "75D30127F00019",
       "Recipient Name": "NATIONAL OPINION RESEARCH CENTER",
       "Transaction Amount": 32559906.0,
@@ -122,26 +142,6 @@
       "internal_id": 363910148
     },
     {
-      "Award ID": "70SBUR26F00000002",
-      "Recipient Name": "SALIENT CRGT, INC.",
-      "Transaction Amount": 32367589.48,
-      "Awarding Agency": "Department of Homeland Security",
-      "Transaction Description": "THE PURPOSE OF THIS MODIFICATION IS TO EXERCISE OPTION PERIOD 1.",
-      "Action Date": "2026-11-05",
-      "generated_internal_id": "CONT_AWD_70SBUR26F00000002_7003_47QTCK18D0060_4732",
-      "internal_id": 353166886
-    },
-    {
-      "Award ID": "70CDCR27FR0000002",
-      "Recipient Name": "SK2 LLC",
-      "Transaction Amount": 31777231.0,
-      "Awarding Agency": "Department of Homeland Security",
-      "Transaction Description": "THIS TASK ORDER IS TO PROCURE MAINTENANCE, AND DEVELOP A DESIGN FOR RENOVATION OF THE EXISTING ICE-OWNED PERMANENT STRUCTURE IN ROXBURY, NJ TO SERVE AS A PROCESSING AND DETENTION FACILITY AND PROVIDE WRAPAROUND SERVICES FOR OPERATION OF THE FACILITY.",
-      "Action Date": "2026-11-05",
-      "generated_internal_id": "CONT_AWD_70CDCR27FR0000002_7012_N0002325D0139_9700",
-      "internal_id": 363893403
-    },
-    {
       "Award ID": "70Z02326C93210003",
       "Recipient Name": "DAVIE DEFENSE INC.",
       "Transaction Amount": 31500000.0,
@@ -150,16 +150,6 @@
       "Action Date": "2026-11-17",
       "generated_internal_id": "CONT_AWD_70Z02326C93210003_7008_-NONE-_-NONE-",
       "internal_id": 355199052
-    },
-    {
-      "Award ID": "W912DQ27CA002",
-      "Recipient Name": "CAPE-APTIM JV1, LLC",
-      "Transaction Amount": 30000000.0,
-      "Awarding Agency": "Department of Defense",
-      "Transaction Description": "ROEBLING RA OU4/OU5",
-      "Action Date": "2026-11-05",
-      "generated_internal_id": "CONT_AWD_W912DQ27CA002_9700_-NONE-_-NONE-",
-      "internal_id": 363896636
     },
     {
       "Award ID": "DEAC0576RL01830",
@@ -220,16 +210,6 @@
       "Action Date": "2026-11-06",
       "generated_internal_id": "CONT_AWD_36C24427C0002_3600_-NONE-_-NONE-",
       "internal_id": 363884210
-    },
-    {
-      "Award ID": "70SBUR26F00000141",
-      "Recipient Name": "CITADEL FEDERAL SOLUTIONS LLC",
-      "Transaction Amount": 25685385.58,
-      "Awarding Agency": "Department of Homeland Security",
-      "Transaction Description": "DEPARTMENT OF HOMELAND SECURITY (DHS), U. S. CITIZENSHIP AND IMMIGRATIONS SERVICES (USCIS), FIELD OPERATIONS DIRECTORATE (FOD), FIELD OFFICE SUPPORT SERVICES (FOSS).",
-      "Action Date": "2026-11-05",
-      "generated_internal_id": "CONT_AWD_70SBUR26F00000141_7003_47QRAA13D0001_4732",
-      "internal_id": 360873864
     },
     {
       "Award ID": "70Z02326C93210002",
@@ -300,6 +280,26 @@
       "Action Date": "2026-11-13",
       "generated_internal_id": "CONT_AWD_140PP027C0008_1406_-NONE-_-NONE-",
       "internal_id": 363933070
+    },
+    {
+      "Award ID": "47QFCA25F0033",
+      "Recipient Name": "BOOZ ALLEN HAMILTON INC",
+      "Transaction Amount": 20404653.0,
+      "Awarding Agency": "General Services Administration",
+      "Transaction Description": "AFRL SHADOW RAPTOR. MODIFICATION TO ADD INCREMENTAL FUNDS AND EXECUTE ADMINISTRATIVE CHANGES TO UPDATE CONTRACTING OFFICER'S REPRESENTATIVE DESIGNATION AND DD254 REVISION 01.",
+      "Action Date": "2026-11-13",
+      "generated_internal_id": "CONT_AWD_47QFCA25F0033_4732_47QTCK18D0004_4732",
+      "internal_id": 281082478
+    },
+    {
+      "Award ID": "123J1427F0142",
+      "Recipient Name": "PACIFIC COAST PRODUCERS",
+      "Transaction Amount": 20212549.11,
+      "Awarding Agency": "Department of Agriculture",
+      "Transaction Description": "COMMODITIES FOR USG FOOD DONATIONS: 2000011663/4400002626/4100035261/PEACHES CLING SLICES EX LT CAN-6/10,PEACHES CLING DICED EX LT  CAN-6/10,PEARS DICED EX LT CAN-6/10,MIXED FRUIT EX LT CAN-6/10",
+      "Action Date": "2026-11-17",
+      "generated_internal_id": "CONT_AWD_123J1427F0142_12K2_123J1426D0042_12K2",
+      "internal_id": 364100225
     }
   ]
 }
