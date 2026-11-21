@@ -1,5 +1,5 @@
 {
-  "pulled": "2026-11-20T11:51:12Z",
+  "pulled": "2026-11-21T11:18:24Z",
   "results": [
     {
       "Award ID": "70ZS0727FPCNI0002",
@@ -52,6 +52,16 @@
       "internal_id": 361351589
     },
     {
+      "Award ID": "75FCMC26F0129",
+      "Recipient Name": "ACCENTURE FEDERAL SERVICES LLC",
+      "Transaction Amount": 69549107.0,
+      "Awarding Agency": "Department of Health and Human Services",
+      "Transaction Description": "THE CONTRACTOR PERFORMING WORK WILL BE RESPONSIBLE FOR IDENTIFYING THE ROOT CAUSE OF ENROLLMENT AND FINANCIAL DATA DISCREPANCIES AND RESOLVING THESE DISCREPANCIES WITHIN THE FEDERALLY-FACILITATED EXCHANGE (FFE). FOR STATE-BASED EXCHANGES (SBES), THE",
+      "Action Date": "2026-11-19",
+      "generated_internal_id": "CONT_AWD_75FCMC26F0129_7530_GS35F540GA_4732",
+      "internal_id": 361775381
+    },
+    {
       "Award ID": "75FCMC20C0026",
       "Recipient Name": "WELLPOINT FEDERAL SOLUTIONS, INC.",
       "Transaction Amount": 62514487.0,
@@ -90,6 +100,16 @@
       "Action Date": "2026-11-18",
       "generated_internal_id": "CONT_AWD_7200AA23C00012_7200_-NONE-_-NONE-",
       "internal_id": 291386654
+    },
+    {
+      "Award ID": "47QFCA24F0002",
+      "Recipient Name": "PERATON INC.",
+      "Transaction Amount": 43195066.0,
+      "Awarding Agency": "General Services Administration",
+      "Transaction Description": "THE PURPOSES OF THIS MODIFICATION ARE TO UPDATE TASK ORDER SECTION B.6.1 AND TO INCREMENTALLY FUND OPTION PERIOD 3 (OP3).",
+      "Action Date": "2026-11-19",
+      "generated_internal_id": "CONT_AWD_47QFCA24F0002_4732_47QTCK18D0011_4732",
+      "internal_id": 281082403
     },
     {
       "Award ID": "75FCMC27F0004",
@@ -152,14 +172,14 @@
       "internal_id": 355199052
     },
     {
-      "Award ID": "DEAC0576RL01830",
-      "Recipient Name": "BATTELLE MEMORIAL INSTITUTE",
-      "Transaction Amount": 29183371.0,
-      "Awarding Agency": "Department of Energy",
-      "Transaction Description": "BATTELLE MEMORIAL INSTITUTE/PACIFIC NORTHWEST LABORATORY MANAGEMENT AND OPERATING CONTRACT: THIS UNILATERAL MOD OBLIGATES DEPARTMENT OF ENERGY FUNDING (TAS 89 0222) AND NON-APPROPRIATED.",
-      "Action Date": "2026-11-06",
-      "generated_internal_id": "CONT_AWD_DEAC0576RL01830_8900_-NONE-_-NONE-",
-      "internal_id": 295476174
+      "Award ID": "75N95024C00003",
+      "Recipient Name": "WESTAT, INC.",
+      "Transaction Amount": 31008000.0,
+      "Awarding Agency": "Department of Health and Human Services",
+      "Transaction Description": "POPULATION ASSESSMENT OF TOBACCO AND HEALTH (PATH) STUDY PERIOD OF PERFORMANCE: 02/01/2024 - 11/30/2031.",
+      "Action Date": "2026-11-19",
+      "generated_internal_id": "CONT_AWD_75N95024C00003_7529_-NONE-_-NONE-",
+      "internal_id": 291628787
     },
     {
       "Award ID": "70CDCR26FR0000101",
@@ -202,14 +222,14 @@
       "internal_id": 364018619
     },
     {
-      "Award ID": "36C24427C0002",
-      "Recipient Name": "SERVIAM CONSTRUCTION LLC",
-      "Transaction Amount": 26009451.0,
-      "Awarding Agency": "Department of Veterans Affairs",
-      "Transaction Description": "UD CHILLER CAPACITY AND CONTROLS UPGRADE",
-      "Action Date": "2026-11-06",
-      "generated_internal_id": "CONT_AWD_36C24427C0002_3600_-NONE-_-NONE-",
-      "internal_id": 363884210
+      "Award ID": "70B01C26F00000594",
+      "Recipient Name": "AECOM TECHNICAL SERVICES, INC.",
+      "Transaction Amount": 26639597.84,
+      "Awarding Agency": "Department of Homeland Security",
+      "Transaction Description": "THE PURPOSE OF THIS MODIFICATION IS TO INCORPORATE AN ENHANCED SOLUTION TO SUPPORT AN ACCELERATED DESIGN-BUILD CONSTRUCTION SCHEDULE.",
+      "Action Date": "2026-11-19",
+      "generated_internal_id": "CONT_AWD_70B01C26F00000594_7014_70B01C26A00000010_7014",
+      "internal_id": 361190065
     },
     {
       "Award ID": "70Z02326C93210002",
@@ -242,26 +262,6 @@
       "internal_id": 364103878
     },
     {
-      "Award ID": "140D0426F0370",
-      "Recipient Name": "GENERAL DYNAMICS INFORMATION TECHNOLOGY, INC.",
-      "Transaction Amount": 22994822.52,
-      "Awarding Agency": "Department of the Interior",
-      "Transaction Description": "THE PURPOSE OF THIS MODIFICATION IS TO INCORPORATE V5 PRICING, EXERCISE OPTION PERIOD 1, INCREMENTALLY FUND OPTION PERIOD 1, REALIGN FUNDS FROM BASE PERIOD TO OPTION PERIOD 1, AND UPDATE PERFORMANCE WORK STATEMENT.",
-      "Action Date": "2026-11-06",
-      "generated_internal_id": "CONT_AWD_140D0426F0370_1406_140D0424D0001_1406",
-      "internal_id": 357660964
-    },
-    {
-      "Award ID": "47QFCA26F0023",
-      "Recipient Name": "ACCENTURE FEDERAL SERVICES LLC",
-      "Transaction Amount": 22984553.0,
-      "Awarding Agency": "General Services Administration",
-      "Transaction Description": "THE PURPOSE OF THIS REQUIREMENT IS TO ADD INCREMENTAL FUNDING IN THE AMOUNT OF $22,984,553.00 TO THE BASE YEAR CLIN 0001 AND INCORPORATE ADMINISTRATIVE CHANGES.",
-      "Action Date": "2026-11-06",
-      "generated_internal_id": "CONT_AWD_47QFCA26F0023_4732_47QTCK18D0036_4732",
-      "internal_id": 359811716
-    },
-    {
       "Award ID": "36C77627C0011",
       "Recipient Name": "ELEVATED TECHNOLOGIES SERVICES, LLC",
       "Transaction Amount": 22970490.0,
@@ -270,6 +270,16 @@
       "Action Date": "2026-11-09",
       "generated_internal_id": "CONT_AWD_36C77627C0011_3600_-NONE-_-NONE-",
       "internal_id": 363899100
+    },
+    {
+      "Award ID": "89303321CEM000080",
+      "Recipient Name": "BATTELLE SAVANNAH RIVER ALLIANCE, LLC",
+      "Transaction Amount": 21874773.0,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "THE DESCRIPTION OF THIS MODIFICATION IS TO INCORPORATE THE FINANCIAL PLAN NO. 89 INTO THE BSRA M&O CONTRACT FOR FY2027.",
+      "Action Date": "2026-11-19",
+      "generated_internal_id": "CONT_AWD_89303321CEM000080_8900_-NONE-_-NONE-",
+      "internal_id": 292036677
     },
     {
       "Award ID": "140PP027C0008",
@@ -290,16 +300,6 @@
       "Action Date": "2026-11-13",
       "generated_internal_id": "CONT_AWD_47QFCA25F0033_4732_47QTCK18D0004_4732",
       "internal_id": 281082478
-    },
-    {
-      "Award ID": "123J1427F0142",
-      "Recipient Name": "PACIFIC COAST PRODUCERS",
-      "Transaction Amount": 20212549.11,
-      "Awarding Agency": "Department of Agriculture",
-      "Transaction Description": "COMMODITIES FOR USG FOOD DONATIONS: 2000011663/4400002626/4100035261/PEACHES CLING SLICES EX LT CAN-6/10,PEACHES CLING DICED EX LT  CAN-6/10,PEARS DICED EX LT CAN-6/10,MIXED FRUIT EX LT CAN-6/10",
-      "Action Date": "2026-11-17",
-      "generated_internal_id": "CONT_AWD_123J1427F0142_12K2_123J1426D0042_12K2",
-      "internal_id": 364100225
     }
   ]
 }
