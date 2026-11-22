@@ -1,5 +1,5 @@
 {
-  "pulled": "2026-11-21T11:18:24Z",
+  "pulled": "2026-11-22T11:36:30Z",
   "results": [
     {
       "Award ID": "70ZS0727FPCNI0002",
@@ -12,6 +12,16 @@
       "internal_id": 364019382
     },
     {
+      "Award ID": "140D0423F0882",
+      "Recipient Name": "GUIDEHOUSE INC.",
+      "Transaction Amount": 150670733.0,
+      "Awarding Agency": "Department of the Interior",
+      "Transaction Description": "GRANTS PROGRAM SOLUTIONS AND IT SUPPORT SERVICES",
+      "Action Date": "2026-11-20",
+      "generated_internal_id": "CONT_AWD_140D0423F0882_1406_HHSN316201200040W_7529",
+      "internal_id": 277754428
+    },
+    {
       "Award ID": "70RDA225FR0000018",
       "Recipient Name": "SALUS WORLDWIDE SOLUTIONS CORP.",
       "Transaction Amount": 150000000.0,
@@ -20,6 +30,16 @@
       "Action Date": "2026-11-10",
       "generated_internal_id": "CONT_AWD_70RDA225FR0000018_7001_70RDA225D00000005_7001",
       "internal_id": 291238350
+    },
+    {
+      "Award ID": "70B01C27F00000007",
+      "Recipient Name": "SOUTHWEST VALLEY CONSTRUCTORS CO",
+      "Transaction Amount": 111000000.0,
+      "Awarding Agency": "Department of Homeland Security",
+      "Transaction Description": "DESIGN-BUILD A BORDER PATROL CHECKPOINT LOCATED IN KINGSVILLE, TX",
+      "Action Date": "2026-11-19",
+      "generated_internal_id": "CONT_AWD_70B01C27F00000007_7014_70B01C26D00000025_7014",
+      "internal_id": 364174841
     },
     {
       "Award ID": "36C10B24F0237",
@@ -62,6 +82,26 @@
       "internal_id": 361775381
     },
     {
+      "Award ID": "70B01C27F00000010",
+      "Recipient Name": "SOUTHWEST VALLEY CONSTRUCTORS CO",
+      "Transaction Amount": 68000000.0,
+      "Awarding Agency": "Department of Homeland Security",
+      "Transaction Description": "DESIGN-BUILD A BORDER PATROL CHECKPOINT LOCATED IN INDIO CALIFORNIA STATE ROUTE 86 (SR86)",
+      "Action Date": "2026-11-19",
+      "generated_internal_id": "CONT_AWD_70B01C27F00000010_7014_70B01C26D00000025_7014",
+      "internal_id": 364174844
+    },
+    {
+      "Award ID": "2032H523F00058",
+      "Recipient Name": "FCN, INC.",
+      "Transaction Amount": 67258757.0,
+      "Awarding Agency": "Department of the Treasury",
+      "Transaction Description": "BROADCOM SOFTWARE LICENSE AND MAINTENANCE; EXERCISE OPTION YEAR.",
+      "Action Date": "2026-11-20",
+      "generated_internal_id": "CONT_AWD_2032H523F00058_2050_47QTCA19D00CB_4732",
+      "internal_id": 279027342
+    },
+    {
       "Award ID": "75FCMC20C0026",
       "Recipient Name": "WELLPOINT FEDERAL SOLUTIONS, INC.",
       "Transaction Amount": 62514487.0,
@@ -82,6 +122,26 @@
       "internal_id": 291057065
     },
     {
+      "Award ID": "70B01C27F00000008",
+      "Recipient Name": "SOUTHWEST VALLEY CONSTRUCTORS CO",
+      "Transaction Amount": 56000000.0,
+      "Awarding Agency": "Department of Homeland Security",
+      "Transaction Description": "DESIGN-BUILD A BORDER PATROL CHECKPOINT LOCATED IN EAGLE PASS, TX.",
+      "Action Date": "2026-11-19",
+      "generated_internal_id": "CONT_AWD_70B01C27F00000008_7014_70B01C26D00000025_7014",
+      "internal_id": 364174842
+    },
+    {
+      "Award ID": "70CDCR26FR0000123",
+      "Recipient Name": "CORECIVIC, INC.",
+      "Transaction Amount": 49801900.0,
+      "Awarding Agency": "Department of Homeland Security",
+      "Transaction Description": "THIS MODIFICATION PROVIDES ADDITIONAL FUNDING FOR HOUSING, TRANSPORTATION, AND MEDICAL CARE FOR ICE DETAINEES AT THE MIDWEST DETENTION CENTER IN LEAVENWORTH, KANSAS.",
+      "Action Date": "2026-11-20",
+      "generated_internal_id": "CONT_AWD_70CDCR26FR0000123_7012_70CDCR25D00000008_7012",
+      "internal_id": 361906651
+    },
+    {
       "Award ID": "75D30126F20733",
       "Recipient Name": "FOUR SEASONS ENVIRONMENTAL INC",
       "Transaction Amount": 49279467.0,
@@ -90,6 +150,26 @@
       "Action Date": "2026-11-09",
       "generated_internal_id": "CONT_AWD_75D30126F20733_7523_47QSHA19D001K_4732",
       "internal_id": 353258112
+    },
+    {
+      "Award ID": "70B01C27F00000009",
+      "Recipient Name": "SOUTHWEST VALLEY CONSTRUCTORS CO",
+      "Transaction Amount": 48000000.0,
+      "Awarding Agency": "Department of Homeland Security",
+      "Transaction Description": "DESIGN BUILD BORDER PATROL CHECKPOINT IN CARRIZO SPRINGS, TX",
+      "Action Date": "2026-11-19",
+      "generated_internal_id": "CONT_AWD_70B01C27F00000009_7014_70B01C26D00000025_7014",
+      "internal_id": 364174843
+    },
+    {
+      "Award ID": "47QACA27F0016",
+      "Recipient Name": "MINBURN TECHNOLOGY GROUP, LLC",
+      "Transaction Amount": 46166400.0,
+      "Awarding Agency": "General Services Administration",
+      "Transaction Description": "47QFSA25F0005  ARMY X3 SUBSCRIPTION LICENSES FOR DOD365SEC",
+      "Action Date": "2026-11-18",
+      "generated_internal_id": "CONT_AWD_47QACA27F0016_4732_47QTCA21A0003_4732",
+      "internal_id": 364169876
     },
     {
       "Award ID": "7200AA23C00012",
@@ -220,86 +300,6 @@
       "Action Date": "2026-11-16",
       "generated_internal_id": "CONT_AWD_36C77627C0017_3600_-NONE-_-NONE-",
       "internal_id": 364018619
-    },
-    {
-      "Award ID": "70B01C26F00000594",
-      "Recipient Name": "AECOM TECHNICAL SERVICES, INC.",
-      "Transaction Amount": 26639597.84,
-      "Awarding Agency": "Department of Homeland Security",
-      "Transaction Description": "THE PURPOSE OF THIS MODIFICATION IS TO INCORPORATE AN ENHANCED SOLUTION TO SUPPORT AN ACCELERATED DESIGN-BUILD CONSTRUCTION SCHEDULE.",
-      "Action Date": "2026-11-19",
-      "generated_internal_id": "CONT_AWD_70B01C26F00000594_7014_70B01C26A00000010_7014",
-      "internal_id": 361190065
-    },
-    {
-      "Award ID": "70Z02326C93210002",
-      "Recipient Name": "BOLLINGER SHIPYARDS LOCKPORT, L.L.C.",
-      "Transaction Amount": 25200000.0,
-      "Awarding Agency": "Department of Homeland Security",
-      "Transaction Description": "PURCHASE OF FOUR (4) ARCTIC SECURITY CUTTERS FOR THE USCG MODIFICATION P00003 TO MAKE IN SCOPE CHANGES TO LLTM",
-      "Action Date": "2026-11-17",
-      "generated_internal_id": "CONT_AWD_70Z02326C93210002_7008_-NONE-_-NONE-",
-      "internal_id": 353959768
-    },
-    {
-      "Award ID": "6933A227F00007N",
-      "Recipient Name": "CROWLEY GOVERNMENT SERVICES, INC.",
-      "Transaction Amount": 24657158.8,
-      "Awarding Agency": "Department of Transportation",
-      "Transaction Description": "SHIP REPAIR AND SERVICE TO COMPLETE A DRY-DOCKING PERIOD.",
-      "Action Date": "2026-11-10",
-      "generated_internal_id": "CONT_AWD_6933A227F00007N_6938_693JF721D000007_6938",
-      "internal_id": 363936106
-    },
-    {
-      "Award ID": "70CDCR27FR0000010",
-      "Recipient Name": "THE GEO GROUP, INC.",
-      "Transaction Amount": 24256301.0,
-      "Awarding Agency": "Department of Homeland Security",
-      "Transaction Description": "TASK ORDER TO PROVIDE COMPREHENSIVE DETENTION, SECURITY, HEALTHCARE, TRANSPORTATION AND SUPPORTS SERVICES AT THE NORTHWEST ICE PROCESSING CENTER (TACOMA, WA) IN SUPPORT OF ERO.",
-      "Action Date": "2026-11-13",
-      "generated_internal_id": "CONT_AWD_70CDCR27FR0000010_7012_70CDCR27D00000002_7012",
-      "internal_id": 364103878
-    },
-    {
-      "Award ID": "36C77627C0011",
-      "Recipient Name": "ELEVATED TECHNOLOGIES SERVICES, LLC",
-      "Transaction Amount": 22970490.0,
-      "Awarding Agency": "Department of Veterans Affairs",
-      "Transaction Description": "CLIN 0076 BASE ITEM  - UNRESTRICTED  PROJ 691-26-760 LOS ANGELES CALIFORNIA",
-      "Action Date": "2026-11-09",
-      "generated_internal_id": "CONT_AWD_36C77627C0011_3600_-NONE-_-NONE-",
-      "internal_id": 363899100
-    },
-    {
-      "Award ID": "89303321CEM000080",
-      "Recipient Name": "BATTELLE SAVANNAH RIVER ALLIANCE, LLC",
-      "Transaction Amount": 21874773.0,
-      "Awarding Agency": "Department of Energy",
-      "Transaction Description": "THE DESCRIPTION OF THIS MODIFICATION IS TO INCORPORATE THE FINANCIAL PLAN NO. 89 INTO THE BSRA M&O CONTRACT FOR FY2027.",
-      "Action Date": "2026-11-19",
-      "generated_internal_id": "CONT_AWD_89303321CEM000080_8900_-NONE-_-NONE-",
-      "internal_id": 292036677
-    },
-    {
-      "Award ID": "140PP027C0008",
-      "Recipient Name": "PAULSEN CONSTRUCTION LLC",
-      "Transaction Amount": 21340920.0,
-      "Awarding Agency": "Department of the Interior",
-      "Transaction Description": "YELL 326141 YELLOWSTONE MODULAR HOUSING",
-      "Action Date": "2026-11-13",
-      "generated_internal_id": "CONT_AWD_140PP027C0008_1406_-NONE-_-NONE-",
-      "internal_id": 363933070
-    },
-    {
-      "Award ID": "47QFCA25F0033",
-      "Recipient Name": "BOOZ ALLEN HAMILTON INC",
-      "Transaction Amount": 20404653.0,
-      "Awarding Agency": "General Services Administration",
-      "Transaction Description": "AFRL SHADOW RAPTOR. MODIFICATION TO ADD INCREMENTAL FUNDS AND EXECUTE ADMINISTRATIVE CHANGES TO UPDATE CONTRACTING OFFICER'S REPRESENTATIVE DESIGNATION AND DD254 REVISION 01.",
-      "Action Date": "2026-11-13",
-      "generated_internal_id": "CONT_AWD_47QFCA25F0033_4732_47QTCK18D0004_4732",
-      "internal_id": 281082478
     }
   ]
 }
