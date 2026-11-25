@@ -1,5 +1,5 @@
 {
-  "pulled": "2026-11-24T13:53:03Z",
+  "pulled": "2026-11-25T13:07:11Z",
   "results": [
     {
       "Award ID": "70ZS0727FPCNI0002",
@@ -22,16 +22,6 @@
       "internal_id": 277754428
     },
     {
-      "Award ID": "70RDA225FR0000018",
-      "Recipient Name": "SALUS WORLDWIDE SOLUTIONS CORP.",
-      "Transaction Amount": 150000000.0,
-      "Awarding Agency": "Department of Homeland Security",
-      "Transaction Description": "THE PURPOSE OF THIS MODIFICATION IS TO ESTABLISH A SUPPLEMENTAL AGREEMENT FOR WORK WITHIN SCOPE.",
-      "Action Date": "2026-11-10",
-      "generated_internal_id": "CONT_AWD_70RDA225FR0000018_7001_70RDA225D00000005_7001",
-      "internal_id": 291238350
-    },
-    {
       "Award ID": "70B01C27F00000007",
       "Recipient Name": "SOUTHWEST VALLEY CONSTRUCTORS CO",
       "Transaction Amount": 111000000.0,
@@ -40,6 +30,16 @@
       "Action Date": "2026-11-19",
       "generated_internal_id": "CONT_AWD_70B01C27F00000007_7014_70B01C26D00000025_7014",
       "internal_id": 364174841
+    },
+    {
+      "Award ID": "89303924FEM400054",
+      "Recipient Name": "CENTRAL PLATEAU CLEANUP COMPANY, LLC",
+      "Transaction Amount": 101808889.24,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "HANFORD CENTRAL PLATEAU CLEANUP CONTRACT - TASK ORDER 7 - END STATES & BASE OPS. THE PURPOSE OF THIS MODIFICATION IS TO ADD $101,808,889.24 IN INCREMENTAL FUNDING (REQ 27EM000159) FOR UNINTERRUPTED SUPPORT FOR CENTRAL PLATEAU THROUGH FEBRUARY",
+      "Action Date": "2026-11-23",
+      "generated_internal_id": "CONT_AWD_89303924FEM400054_8900_89303320DEM000030_8900",
+      "internal_id": 292037750
     },
     {
       "Award ID": "36C10B24F0237",
@@ -132,6 +132,16 @@
       "internal_id": 361906651
     },
     {
+      "Award ID": "140RR027C0003",
+      "Recipient Name": "NW CONSTRUCTION, INC",
+      "Transaction Amount": 49123167.0,
+      "Awarding Agency": "Department of the Interior",
+      "Transaction Description": "DK HEART BUTTE DAM SAFETY MODIFICATION",
+      "Action Date": "2026-11-23",
+      "generated_internal_id": "CONT_AWD_140RR027C0003_1406_-NONE-_-NONE-",
+      "internal_id": 367352617
+    },
+    {
       "Award ID": "70B01C27F00000009",
       "Recipient Name": "SOUTHWEST VALLEY CONSTRUCTORS CO",
       "Transaction Amount": 48000000.0,
@@ -222,6 +232,16 @@
       "internal_id": 291628787
     },
     {
+      "Award ID": "693KA721C00014",
+      "Recipient Name": "LEIDOS, INC.",
+      "Transaction Amount": 29107062.69,
+      "Awarding Agency": "Department of Transportation",
+      "Transaction Description": "THE PURPOSE OF THIS MODIFICATION IS TO OBLIGATE ADDITIONAL FUNDING FOR ERAM/ERIDS SLE, OFFSHORE, ES3, AND VARIOUS TASK ORDER AWARDS AND REVISIONS AS NOTED IN THE LINE ITEM DESCRIPTIONS BELOW.",
+      "Action Date": "2026-11-23",
+      "generated_internal_id": "CONT_AWD_693KA721C00014_6920_-NONE-_-NONE-",
+      "internal_id": 291055803
+    },
+    {
       "Award ID": "70CDCR26FR0000101",
       "Recipient Name": "THE GEO GROUP, INC.",
       "Transaction Amount": 28423856.0,
@@ -272,16 +292,6 @@
       "internal_id": 353959768
     },
     {
-      "Award ID": "6933A227F00007N",
-      "Recipient Name": "CROWLEY GOVERNMENT SERVICES, INC.",
-      "Transaction Amount": 24657158.8,
-      "Awarding Agency": "Department of Transportation",
-      "Transaction Description": "SHIP REPAIR AND SERVICE TO COMPLETE A DRY-DOCKING PERIOD.",
-      "Action Date": "2026-11-10",
-      "generated_internal_id": "CONT_AWD_6933A227F00007N_6938_693JF721D000007_6938",
-      "internal_id": 363936106
-    },
-    {
       "Award ID": "70CDCR27FR0000010",
       "Recipient Name": "THE GEO GROUP, INC.",
       "Transaction Amount": 24256301.0,
@@ -290,16 +300,6 @@
       "Action Date": "2026-11-13",
       "generated_internal_id": "CONT_AWD_70CDCR27FR0000010_7012_70CDCR27D00000002_7012",
       "internal_id": 364103878
-    },
-    {
-      "Award ID": "89303321CEM000080",
-      "Recipient Name": "BATTELLE SAVANNAH RIVER ALLIANCE, LLC",
-      "Transaction Amount": 21874773.0,
-      "Awarding Agency": "Department of Energy",
-      "Transaction Description": "THE DESCRIPTION OF THIS MODIFICATION IS TO INCORPORATE THE FINANCIAL PLAN NO. 89 INTO THE BSRA M&O CONTRACT FOR FY2027.",
-      "Action Date": "2026-11-19",
-      "generated_internal_id": "CONT_AWD_89303321CEM000080_8900_-NONE-_-NONE-",
-      "internal_id": 292036677
     }
   ]
 }
