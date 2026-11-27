@@ -1,5 +1,5 @@
 {
-  "pulled": "2026-11-26T12:46:36Z",
+  "pulled": "2026-11-27T12:39:56Z",
   "results": [
     {
       "Award ID": "70ZS0727FPCNI0002",
@@ -62,6 +62,16 @@
       "internal_id": 367366227
     },
     {
+      "Award ID": "DEAC0908SR22470",
+      "Recipient Name": "SAVANNAH RIVER NUCLEAR SOLUTIONS LLC",
+      "Transaction Amount": 74908453.18,
+      "Awarding Agency": "Department of Energy",
+      "Transaction Description": "SAVANNAH RIVER SITE MANAGEMENT & OPERATING (M&O) CONTRACT",
+      "Action Date": "2026-11-25",
+      "generated_internal_id": "CONT_AWD_DEAC0908SR22470_8900_-NONE-_-NONE-",
+      "internal_id": 295476437
+    },
+    {
       "Award ID": "36C10B24F0237",
       "Recipient Name": "DELOITTE CONSULTING LLP",
       "Transaction Amount": 74779110.54,
@@ -70,16 +80,6 @@
       "Action Date": "2026-11-16",
       "generated_internal_id": "CONT_AWD_36C10B24F0237_3600_47QTCK18D0029_4732",
       "internal_id": 279970499
-    },
-    {
-      "Award ID": "DEAC2701RV14136",
-      "Recipient Name": "BECHTEL NATIONAL, INC.",
-      "Transaction Amount": 73017403.87,
-      "Awarding Agency": "Department of Energy",
-      "Transaction Description": "THIS MODIFICATION WILL UPDATE SECTION B, SUPPLIES OR SERVICES AND PRICES/COSTS TO OBLIGATE INCREMENTAL FUNDING UNDER PURCHASE REQUISITION NUMBER 27EM000118 IN THE TOTAL AMOUNT OF $73,017,403.87 FOR WTP COMMISSIONING.",
-      "Action Date": "2026-11-12",
-      "generated_internal_id": "CONT_AWD_DEAC2701RV14136_8900_-NONE-_-NONE-",
-      "internal_id": 295476901
     },
     {
       "Award ID": "75FCMC26F0129",
@@ -140,6 +140,16 @@
       "Action Date": "2026-11-19",
       "generated_internal_id": "CONT_AWD_70B01C27F00000008_7014_70B01C26D00000025_7014",
       "internal_id": 364174842
+    },
+    {
+      "Award ID": "70B02C26F00000258",
+      "Recipient Name": "ADVANCED TECHNOLOGY SYSTEMS COMPANY, INC. (OF VIRGINIA)",
+      "Transaction Amount": 51289213.11,
+      "Awarding Agency": "Department of Homeland Security",
+      "Transaction Description": "P00004 PHASE 2 FUNDING MOD",
+      "Action Date": "2026-11-25",
+      "generated_internal_id": "CONT_AWD_70B02C26F00000258_7014_70B02C23D00000024_7014",
+      "internal_id": 358871293
     },
     {
       "Award ID": "80NM0026F7025",
@@ -242,6 +252,16 @@
       "internal_id": 363937771
     },
     {
+      "Award ID": "75FCMC24F0116",
+      "Recipient Name": "SPARKSOFT CORPORATION",
+      "Transaction Amount": 34961086.0,
+      "Awarding Agency": "Department of Health and Human Services",
+      "Transaction Description": "EXERCISE AND FUND OPTION PERIOD 3 FOR ADVANCE PROVIDER SCREENING (APS)",
+      "Action Date": "2026-11-25",
+      "generated_internal_id": "CONT_AWD_75FCMC24F0116_7530_47QTCB21D0247_4732",
+      "internal_id": 291529342
+    },
+    {
       "Award ID": "2031JG27F56097",
       "Recipient Name": "STONEX FINANCIAL LTD",
       "Transaction Amount": 34457385.24,
@@ -280,26 +300,6 @@
       "Action Date": "2026-11-17",
       "generated_internal_id": "CONT_AWD_70Z02326C93210003_7008_-NONE-_-NONE-",
       "internal_id": 355199052
-    },
-    {
-      "Award ID": "75N95024C00003",
-      "Recipient Name": "WESTAT, INC.",
-      "Transaction Amount": 31008000.0,
-      "Awarding Agency": "Department of Health and Human Services",
-      "Transaction Description": "POPULATION ASSESSMENT OF TOBACCO AND HEALTH (PATH) STUDY PERIOD OF PERFORMANCE: 02/01/2024 - 11/30/2031.",
-      "Action Date": "2026-11-19",
-      "generated_internal_id": "CONT_AWD_75N95024C00003_7529_-NONE-_-NONE-",
-      "internal_id": 291628787
-    },
-    {
-      "Award ID": "DEAC0209CH11466",
-      "Recipient Name": "THE TRUSTEES OF PRINCETON UNIVERSITY",
-      "Transaction Amount": 30693496.67,
-      "Awarding Agency": "Department of Energy",
-      "Transaction Description": "MANAGEMENT AND OPERATING CONTRACT FOR THE MANAGEMENT AND OPERATION OF THE PRINCETON PLASMA PHYSICS LABORATORY.",
-      "Action Date": "2026-11-24",
-      "generated_internal_id": "CONT_AWD_DEAC0209CH11466_8900_-NONE-_-NONE-",
-      "internal_id": 295475814
     }
   ]
 }
